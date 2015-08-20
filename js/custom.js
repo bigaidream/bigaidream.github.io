@@ -3,6 +3,21 @@
 $.fn.exists = function () {
     return this.length > 0 ? this : false;
 }
+	//Handle window resize
+	var resizeFlag=0;  
+	$(window).resize(function(){
+	    resizeFlag=1;
+	})
+	checkSizeChange();
+	function checkSizeChange(){
+	    if (resizeFlag) {
+	      resizeFlag=0;
+	      $(window).trigger('resized');
+	    }
+	    setTimeout(function(){
+	      checkSizeChange();
+	    }, 200);
+	}
 
 $(document).ready(function(){
 
@@ -13,30 +28,158 @@ $(document).ready(function(){
 
 
 	/*++++++++++++++++++++++++++++++++++++
-		slidepage
+		sidebar
 	++++++++++++++++++++++++++++++++++++++*/
-	var SidebarAnim = new TimelineLite({paused:true});
-	SidebarAnim
-		.to($(".social-icons, #main-nav"),0.2,{left:0})
-		.to($("#main"),0.2,{left:250,right:"-=250"},"-=0.2");
-	
+	var sideS, sidebar = {
+		settings : {
+			$side : $("#sidebar"),
+			$main : $("#main"),
+			$trigger : $("a.mobilemenu"),
+			$totaltrigger : $(".social-icons, #main-nav, #main"),
+			$sideFooter:$('#sidebar-footer'),
+			$sideContent:$('#main-nav'),
+			$sidebarWrapper:$('#sidebar-wrapper'),
+			windowWidth:$(window).width()
+			
+		},
 
-	$("a.mobilemenu").on("click",function(){
-		SidebarAnim.play();
-	});
-	$(".social-icons, #main-nav, #main").on("click",function(){
-		SidebarAnim.reverse();		
-	});
+		init : function(){
+			sideS = this.settings;
+			sideS.contentPadding=parseInt(sideS.$sideContent.css('padding-bottom'));
+			this.customScrollFlag=false;
+			this.setScrollBar();
+			this.setContentPadding();
+			this.bindUiActions();
+			this.setMobileSide();
+		},
 
+		isIn : function(){
+			return (sideS.$main.hasClass("sideIn"));
+		},
 
-	/*++++++++++++++++++++++++++++++++++++++++++++++
-		custom scrolls with perfectScroll plugin
-	++++++++++++++++++++++++++++++++++++++++++++++++*/
-	$("#main-nav").perfectScrollbar({
-		wheelPropagation:true,
-		wheelSpeed:80
-	});
+		bindUiActions : function(){
+			var self = this;
+			sideS.$trigger.click(function(e){
+				e.preventDefault();
+				if (self.isIn()){
+					self.sideOut();
+				}else{
+					self.sideIn();
+				}
+			});
+			sideS.$totaltrigger.click(function(){
+				if ($(window).width() < 960 && self.isIn())
+					self.sideOut(); 
+			});
 
+			sideS.$side.on('afterSlideIn',function(){
+				if($(window).width()<=600){// under 600px sidebar will cover the whole screen
+					sideS.$main.css('display','none');
+				}
+			});
+
+			sideS.$side.on('beforeSlideOut',function(){
+				if($(window).width()<=600){
+					sideS.$main.css('display','block');
+				}
+			});
+
+			$(window).on('resized',function(){
+				sideS.windowWidth=$(window).width();
+				self.setContentPadding();
+				self.setScrollBar();
+				if ( sideS.windowWidth > 991 ){
+					self.reset();
+				}else{
+					self.gomobile();
+				}
+
+				self.setMobileSide();
+			});
+		},
+
+		sideIn : function() {
+			var self = this;
+			var sWidth=sideS.$side.width();
+			sideS.$side.trigger('beforeSlideIn');
+			var SidebarAnimIn = new TimelineLite({onComplete:function(){
+				sideS.$side.trigger('afterSlideIn');
+			}});
+			SidebarAnimIn.to(sideS.$main,0.5,{left:sWidth,right:-sWidth,ease:Power2.easeIn},"-=0.2");
+			sideS.$main.addClass('sideIn');
+		},
+
+		sideOut : function(){
+			var self = this;
+			sideS.$side.trigger('beforeSlideOut');
+			var SidebarAnimOut = new TimelineLite({onComplete:function(){
+				sideS.$side.trigger('afterSlideOut');
+			}});
+			SidebarAnimOut
+				//.to(sideS.$side,0.2,{left:-250})
+				.to(sideS.$main,0.5,{left:0,right:0,ease:Power2.easeIn},"-=0.2");
+			sideS.$main.removeClass('sideIn');
+		},
+
+		reset : function(){
+			sideS.$main.css({left:250, right:0});
+			sideS.$side.css({left:0});
+			sideS.$main.addClass('sideIn');
+		},
+
+		gomobile : function (){
+			sideS.$main.css({left:0, right:0});
+			sideS.$side.css({left:0});	
+			sideS.$main.removeClass('sideIn');
+		},
+		setMobileSide:function(){
+			var self=this;
+
+			var tWidth=$(window).width();
+			
+			if (tWidth<600){
+				sideS.$side.width(tWidth);
+			}else{
+				sideS.$side.width('');
+				sideS.$main.css('display','block');
+			}
+			
+		},
+		setContentPadding:function(){
+			var self=this;
+			var footerHeight=sideS.$sideFooter.outerHeight();
+			sideS.$sideContent.css({paddingBottom:sideS.contentPadding+footerHeight});
+			
+		},
+		setScrollBar:function(){
+			var self=this;
+
+			if ((sideS.windowWidth>1024 || !isTouchSupported()) && !self.customScrollFlag){//Considiton that we want custom scrollbar
+				self.setCustomScroll();
+			}else if(sideS.windowWidth<=1024 && isTouchSupported() && self.customScrollFlag){ // Condition that we don't want custom scrollbar
+				self.destroyCustomScroll();
+			}
+			
+		},
+		setCustomScroll:function(){
+
+			this.customScrollFlag=true;
+			sideS.$sidebarWrapper.niceScroll({
+				horizrailenabled:false,
+				cursorwidth: '6px',
+			    cursorborder: 'none',
+			    cursorborderradius:'0px',
+			    cursorcolor:"#aaa"
+			});
+		
+		},destroyCustomScroll:function(){
+			sideS.$sidebarWrapper.niceScroll('destroy');
+			this.customScrollFlag=false;
+
+		}
+
+	}
+	sidebar.init();
 
 	/*++++++++++++++++++++++++++++++++++++
 		click event on ul.timeline titles
@@ -218,14 +361,18 @@ $(document).ready(function(){
 		mainClass: 'my-mfp-slide-bottom'
 	});
 
-	/*++++++++++++++++++++++++++++++++++++
-		stellar for contact page backgrounds
-	++++++++++++++++++++++++++++++++++++++*/
-	$(".stellar").stellar({
-  		verticalOffset: -100,
-  		horizontalScrolling: false,
-	});
+	/* Detect touch devices*/
+	function isTouchSupported(){
+        //check if device supports touch
+        var msTouchEnabled = window.navigator.msMaxTouchPoints;
+        var generalTouchEnabled = "ontouchstart" in document.createElement("div");
+     
+        if (msTouchEnabled || generalTouchEnabled) {
+            return true;
+        }
+        return false;
 
+  	}
 
 });
 

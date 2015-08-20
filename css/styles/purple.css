@@ -1,4 +1,4 @@
-ul#navigation li.external:hover .icon, ul#navigation li.currentmenu .icon{
+ul#navigation li.external:hover .fa, ul#navigation li.currentmenu .fa{
 	color: #ec46ef;
 }
 .ul-boxed li {

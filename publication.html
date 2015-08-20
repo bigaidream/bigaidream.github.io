@@ -22,7 +22,7 @@
         
         <!--/CSS styles-->
         <!--Javascript files-->
-        <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+        <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
         <script type="text/javascript" src="js/TweenMax.min.js"></script>
         <script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
         <script type="text/javascript" src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
@@ -30,7 +30,6 @@
         <script type="text/javascript" src="js/modernizr.custom.63321.js"></script>
         <script type="text/javascript" src="js/jquery.dropdownit.js"></script>
 
-        <script type="text/javascript" src="js/jquery.stellar.min.js"></script>
         <script type="text/javascript" src="js/ScrollToPlugin.min.js"></script>
 
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -40,7 +39,8 @@
         <script type="text/javascript" src="js/masonry.min.js"></script>
 
         <script type="text/javascript" src="js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
-
+        <script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
+        
         <script type="text/javascript" src="js/magnific-popup.js"></script>
         <script type="text/javascript" src="js/custom.js"></script>
 
@@ -50,93 +50,108 @@
     <body>
 
         <div id="wrapper">
-            <a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+            <a href="#sidebar" class="mobilemenu"><i class="fa fa-reorder"></i></a>
 
             <div id="sidebar">
-                <div id="main-nav">
-                    <div id="nav-container">
+                <div id="sidebar-wrapper">
+                    <div id="sidebar-inner">
+                        <!-- Profile/logo section-->
                         <div id="profile" class="clearfix">
                             <div class="portrate hidden-xs"></div>
                             <div class="title">
                                 <h2>Jie Fu</h2>
                                 <h3>National University of Singapore</h3>
-                            </div>
-                            
+                            </div>   
                         </div>
-                        <ul id="navigation">
-                            <li>
-                              <a href="index.html">
-                                <div class="icon icon-user"></div>
-                                <div class="text">About Me</div>
-                              </a>
-                            </li>  
-                            
-                            <li>
-                              <a href="research.html">
-                                <div class="icon icon-beaker"></div>
-                                <div class="text">Research</div>
-                              </a>
-                            </li> 
-                            
-                            <li class="currentmenu">
-                              <a href="publication.html">
-                                <div class="icon icon-edit"></div>
-                                <div class="text">Publications & Code</div>
-                              </a>
-                            </li> 
+                        <!-- /Profile/logo section-->
 
-<!--                             <li>
-                              <a href="teaching.html">
-                                <div class="icon icon-time"></div>
-                                <div class="text">Teaching</div>
-                              </a>
-                            </li> -->
+                        <!-- Main navigation-->
+                        <div id="main-nav">
+                            <ul id="navigation">
+                                <li>
+                                  <a href="index.html">
+                                    <i class="fa fa-user"></i>
+                                    <div class="text">About Me</div>
+                                  </a>
+                                </li>  
+                                
+                                <li>
+                                  <a href="research.html">
+                                    <i class="fa fa-bomb"></i>
+                                    <div class="text">Research</div>
+                                  </a>
+                                </li> 
+                                
+                                <li class="currentmenu">
+                                  <a href="publication.html">
+                                    <i class="fa fa-edit"></i>
+                                    <div class="text">Publications & Code</div>
+                                  </a>
+                                </li> 
 
-<!--                             <li>
-                              <a href="gallery.html">
-                                <div class="icon icon-picture"></div>
-                                <div class="text">Gallery</div>
-                              </a>
-                            </li> -->
+                                <li>
+                                  <a href="projects.html">
+                                    <i class="fa fa-rocket"></i>
+                                    <div class="text">Projects</div>
+                                  </a>
+                                </li>
 
-                            <li>
-                              <a href="contact.html">
-                                  <div class="icon icon-comments"></div>
-                                  <div class="text">Contact & Misc</div>
-                              </a>
-                            </li>
+                                <li>
+                                  <a href="https://www.gitbook.com/@bigaidream/" target="_blank">
+                                    <div class="fa fa-book"></div>
+                                    <div class="text">GitBooks</div>
+                                  </a>
+                                </li>  
+                                <li>
+                                  <a href="http://bigaidream.tumblr.com/" target="_blank">
+                                    <div class="fa fa-microphone"></div>
+                                    <div class="text">Blog</div>
+                                  </a>
+                                </li>   
 
-                            <li>
-                              <a href="https://www.gitbook.com/@bigaidream/" target="_blank">
-                                  <div class="icon icon-book"></div>
-                                  <div class="text">GitBooks</div>
-                              </a>
-                            </li>  
+<!--                                 <li>
+                                  <a href="gallery.html">
+                                    <i class="fa fa-picture-o"></i>
+                                    <div class="text">Gallery</div>
+                                  </a>
+                                </li> -->
 
-                            <li>
-                              <a href="http://bigaidream.tumblr.com/" target="_blank">
-                                  <div class="icon icon-microphone"></div>
-                                  <div class="text">Blog</div>
-                              </a>
-                            </li>           
+                                <li>
+                                  <a href="contact.html">
+                                      <i class="fa fa-comments"></i>
+                                      <div class="text">Contact & Misc</div>
+                                  </a>
+                                </li>
 
-<!--                             <li>
-                              <a href="cv.pdf">
-                                  <div class="icon icon-download-alt"></div>
-                                  <div class="text">Download CV</div>
-                              </a>
-                            </li> -->
-                        </ul>
-                    </div>        
+<!--                                 <li class="external">
+                                  <a href="cv.pdf">
+                                      <i class="fa fa-download"></i>
+                                      <div class="text">Download CV</div>
+                                  </a>
+                                </li> -->
+                            </ul>
+                        </div>
+                        <!-- /Main navigation-->
+                        <!-- Sidebar footer -->
+                        <div id="sidebar-footer">
+                            <div class="social-icons">
+                                <ul>
+                                    <li><a href="https://github.com/bigaidream" target="_blank"><i class="fa fa-github"></i></a></li>
+                                    <li><a href="https://www.facebook.com/bigaidream" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/bigaidream" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/bigaidream/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    
+                                </ul>
+                            </div>
+
+        
+                            <!-- <div id="copyright">Copyright text here</div> -->
+                    
+                        </div>
+                        <!-- /Sidebar footer -->
+                    </div>
+
                 </div>
-                
-                <div class="social-icons">
-                    <ul>
-                        <li><a href="https://www.facebook.com/bigaidream" target="_blank"><i class="icon-facebook"></i></a></li>
-                        <li><a href="https://github.com/bigaidream" target="_blank"><i class="icon-github"></i></a></li>
-                        <li><a href="https://www.linkedin.com/in/bigaidream/" target="_blank"><i class="icon-linkedin"></i></a></li>
-                    </ul>
-                </div>    
             </div>
 
             <div id="main">
@@ -146,21 +161,7 @@
                         <div class="pageheader">
                             <div class="headercontent">
                                 <div class="section-container">
-                                    
-                                    <h2 class="title">Publications & Source Code</h2>
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <p><em>Nature</em> Editorial: "If you want reproducible science, the software needs to be open source". I agree with the <a href="http://reproducibleresearch.net/" target="_blank">Reproducible Research</a> and will share the source code related to my publications when available. I'm managing projects according <a href="http://machinelearningmastery.com/how-to-layout-and-manage-your-machine-learning-project/" target="_blank">this guideline</a>. If you'd like to see more, go <a href="https://github.com/bigaidream" target="_blank">Git it</a> <i class="icon-github"></i>  </p> 
-
-                                            <p> <a href="https://scholar.google.com.sg/citations?user=66osleIAAAAJ&hl=en" target="_blank">My Google scholar profile</a> </p>
-                                            
-
-                                            <p> I'm (still...) <strong>training</strong> myself (<a href="http://norvig.com/21-days.html" target="_blank">slow</a>...), and the <strong>testing</strong> results with code and additional materials are shown as follows: </p>
-
-
-                                        </div>
-                                    </div>
-                                    
+                                    <h2 class="title">Papers...</h2>
                                 </div>
                             </div>
                         </div>
@@ -177,12 +178,13 @@
                                         <div class="col-md-6">
                                             <select id="cd-dropdown" name="cd-dropdown" class="cd-select">
                                                 <option class="filter" value="all" selected>All types</option>
-<!--                                                 <option class="filter" value="jpaper">Jounal Papers</option> -->
+                                                <option class="filter" value="jpaper">Jounal Papers</option>
                                                 <option class="filter" value="cpaper">Conference Papers</option>
-<!--                                                 <option class="filter" value="bookchapter">Book Chapters</option>
-                                                <option class="filter" value="book">Books</option> -->
+                                                <!-- <option class="filter" value="bookchapter">Book Chapters</option> -->
+                                                <!-- <option class="filter" value="book">Books</option> -->
                                                 <option class="filter" value="report">Reports</option>
-                                                <option class="filter" value="wpaper">Working Papers</option>
+                                                <!-- <option class="filter" value="tpaper">Technical Papers</option> -->
+                                                <option class="filter" value="thesis">Thesis</option>
                                             </select>
                                         </div>
                                         
@@ -190,8 +192,8 @@
                                             <span>Sort by year:</span>
                                             <div class="btn-group pull-right"> 
 
-                                                <button type="button" data-sort="data-year" data-order="desc" class="sort btn btn-default"><i class="icon-sort-by-order"></i></button>
-                                                <button type="button" data-sort="data-year" data-order="asc" class="sort btn btn-default"><i class="icon-sort-by-order-alt"></i></button>
+                                                <button type="button" data-sort="data-year" data-order="desc" class="sort btn btn-default"><i class="fa fa-sort-numeric-asc"></i></button>
+                                                <button type="button" data-sort="data-year" data-order="asc" class="sort btn btn-default"><i class="fa fa-sort-numeric-desc"></i></button>
                                             </div>
                                         </div>    
                                     </div>
@@ -210,13 +212,13 @@
                                                         <div class="pubassets">
                                                             
                                                             <a href="#" class="pubcollapse">
-                                                                <i class="icon-expand-alt"></i>
+                                                                <i class="fa fa-expand"></i>
                                                             </a>
-                                                            <a href="#" target="_blank">
-                                                                <i class="icon-external-link"></i>
-                                                            </a>
-                                                            <a href="http://sentic.net/affectivespace.pdf" class="tooltips" title="Download" target="_blank">
-                                                                <i class="icon-cloud-download"></i>
+ <!--                                                            <a href="#" target="_blank">
+                                                                <i class="fa fa-external-link"></i>
+                                                            </a> -->
+                                                            <a href="http://sentic.net/affectivespace.pdf" class="tooltips" title="View Paper" target="_blank">
+                                                                <i class="fa fa-external-link"></i>
                                                             </a>
                                                             
                                                         </div>
@@ -237,14 +239,12 @@
                                                         <div class="pubassets">
                                                             
                                                             <a href="#" class="pubcollapse">
-                                                                <i class="icon-expand-alt"></i>
+                                                                <i class="fa fa-expand"></i>
                                                             </a>
-                                                            <a href="#" target="_blank">
-                                                                <i class="icon-external-link"></i>
+                                                            <a href="https://github.com/bigaidream/published/blob/master/reports/game_plan_final_report.pdf" target="_blank">
+                                                                <i class="fa fa-external-link"></i>
                                                             </a>
-                                                            <a href="https://www.scribd.com/doc/188092391/GamePlan-Final-Report" class="tooltips" title="Download" target="_blank">
-                                                                <i class="icon-cloud-download"></i>
-                                                            </a>
+   
                                                             
                                                         </div>
 
@@ -263,13 +263,13 @@
                                                         <div class="pubassets">
                                                             
                                                             <a href="#" class="pubcollapse">
-                                                                <i class="icon-expand-alt"></i>
+                                                                <i class="fa fa-expand"></i>
                                                             </a>
-                                                            <a href="https://github.com/bigaidream/published/tree/master/ITSBN_2.3.0_final" target="_blank" class="tooltips" title="Source Code">
-                                                                <i class="icon-github"></i>
+                                                            <a href="https://github.com/bigaidream/published/tree/master/reports/nus_cs5340/code" target="_blank" class="tooltips" title="Download Source Code">
+                                                                <i class="fa fa-github"></i>
                                                             </a>
-                                                            <a href="https://www.scribd.com/doc/116031948/CS5340-Course-Report" class="tooltips" title="Download" target="_blank">
-                                                                <i class="icon-cloud-download"></i>
+                                                            <a href="https://github.com/bigaidream/published/blob/master/reports/nus_cs5340/nus_cs5340.pdf" class="tooltips" title="View Paper" target="_blank">
+                                                                <i class="fa fa-external-link"></i>
                                                             </a>
                                                             
                                                         </div>
@@ -290,13 +290,11 @@
                                                         <div class="pubassets">
                                                             
                                                             <a href="#" class="pubcollapse">
-                                                                <i class="icon-expand-alt"></i>
+                                                                <i class="fa fa-expand"></i>
                                                             </a>
-                                                            <a href="#" target="_blank" >
-                                                                <i class="icon-external-link"></i>
-                                                            </a>
-                                                            <a href="http://otago.ourarchive.ac.nz/bitstream/handle/10523/2360/FuJie2012MSc3.pdf?sequence=3&isAllowed=y" class="tooltips" title="Download" target="_blank">
-                                                                <i class="icon-cloud-download"></i>
+
+                                                            <a href="http://otago.ourarchive.ac.nz/bitstream/handle/10523/2360/FuJie2012MSc3.pdf?sequence=3&isAllowed=y" class="tooltips" title="View Paper" target="_blank">
+                                                                <i class="fa fa-external-link"></i>
                                                             </a>
                                                             
                                                         </div>
@@ -317,13 +315,13 @@
                                                         <div class="pubassets">
                                                             
                                                             <a href="#" class="pubcollapse">
-                                                                <i class="icon-expand-alt"></i>
+                                                                <i class="fa fa-expand"></i>
                                                             </a>
-                                                            <a href="https://github.com/bigaidream/published/blob/master/IWACI%2C%20GPU" class="tooltips" title="Source Code" target="_blank">
-                                                                <i class="icon-github"></i>
+                                                            <a href="https://github.com/bigaidream/published/blob/master/conferences/IWACI_GPU.m" class="tooltips" title="Source Code" target="_blank">
+                                                                <i class="fa fa-github"></i>
                                                             </a>
-                                                            <a href="https://www.scribd.com/doc/112056581/A-Parallel-Ant-Colony-Optimization-Algorithm-With-GPU-Acceleration-Based-on-All-In-Roulette-Selection" class="tooltips" title="Download" target="_blank">
-                                                                <i class="icon-cloud-download"></i>
+                                                            <a href="https://github.com/bigaidream/published/blob/master/conferences/aco_air_gpu.pdf" class="tooltips" title="View Paper" target="_blank">
+                                                                <i class="fa fa-external-link"></i>
                                                             </a>
                                                             
                                                         </div>
@@ -342,6 +340,7 @@
 
 
 
+
                                             </div>
                                         </div>
                                     </div>
@@ -349,24 +348,12 @@
                                 </div>
                             </div>
 
-                        </div>
 
-                        <div class="pageheader">
-                            <div class="headercontent">
-                                <div class="section-container">
-                                    
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            
-                                            <p>The purpose of publishing papers is to communicate with other researchers. "While brilliant and progressive research continues apace here and there, the amount of redundant, inconsequential, and outright poor research has swelled in recent decades, filling countless pages in journals and monographs ... The amount of material one must read to conduct a reasonable review of a topic keeps growing. "--<a href="http://chronicle.com/article/We-Must-Stop-the-Avalanche-of/65890/" target="_blank"><em>We Must Stop the Avalanche of Low-Quality Research</em></a>. Or, maybe we need more publications, not fewer - but more robust, instant, open, social mechanisms for sorting. I am now training my academic and technical maturity in order to contribute to real knowledge. However, I am forced to be involved in this arms race to some extent. Hope I could be a "healthy" independent researcher one day. <a href="http://people.csail.mit.edu/hmobahi/bogus.pdf" target="_blank"><em>Warning Signs of Bogus Progress in Research in an Age of Rich Computation and Information</em></a>, Yi Ma. <a href="http://bigaidream.tumblr.com/post/112757381338/de-mystifying-good-research-and-good-papers" target="_blank"><em>De-Mystifying Good Research and Good Papers</em></a>, Fei-Fei Li. </p>
-                                        </div>
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                        </div>
 
+
+                        </div>
                     </div>
+
                 </div>
 
                 

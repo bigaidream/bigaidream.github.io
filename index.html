@@ -3,11 +3,11 @@
     <head>
         <title>Big AI Dream, Jie Fu</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="author" content="Jie Fu">
+        <meta name="author" content="#">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         
-        <meta name="description" content="Personal website of Jie Fu" />
-        <meta name="keywords" content="machine learning, programming, statistics, probability" />
+        <meta name="description" content="A theme for faculty profile page" />
+        <meta name="keywords" content="faculty profile, theme,css, html, jquery, transition, transform, 3d, css3" />
 
         <link rel="shortcut icon" href="../favicon.ico">
 
@@ -22,7 +22,7 @@
         
         <!--/CSS styles-->
         <!--Javascript files-->
-        <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+        <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
         <script type="text/javascript" src="js/TweenMax.min.js"></script>
         <script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
         <script type="text/javascript" src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
@@ -30,7 +30,6 @@
         <script type="text/javascript" src="js/modernizr.custom.63321.js"></script>
         <script type="text/javascript" src="js/jquery.dropdownit.js"></script>
 
-        <script type="text/javascript" src="js/jquery.stellar.min.js"></script>
         <script type="text/javascript" src="js/ScrollToPlugin.min.js"></script>
 
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -40,6 +39,8 @@
         <script type="text/javascript" src="js/masonry.min.js"></script>
 
         <script type="text/javascript" src="js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+        <script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
+
 
         <script type="text/javascript" src="js/magnific-popup.js"></script>
         <script type="text/javascript" src="js/custom.js"></script>
@@ -50,94 +51,108 @@
     <body>
 
         <div id="wrapper">
-            <a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+            <a href="#sidebar" class="mobilemenu"><i class="fa fa-reorder"></i></a>
 
             <div id="sidebar">
-                <div id="main-nav">
-                    <div id="nav-container">
+                <div id="sidebar-wrapper">
+                    <div id="sidebar-inner">
+                        <!-- Profile/logo section-->
                         <div id="profile" class="clearfix">
                             <div class="portrate hidden-xs"></div>
                             <div class="title">
                                 <h2>Jie Fu</h2>
                                 <h3>National University of Singapore</h3>
-                            </div>
-                            
+                            </div>   
                         </div>
-                        <ul id="navigation">
-                            <li class="currentmenu">
-                              <a href="index.html">
-                                <div class="icon icon-user"></div>
-                                <div class="text">About Me</div>
-                              </a>
-                            </li>  
-                            
-                            <li>
-                              <a href="research.html">
-                                <div class="icon icon-beaker"></div>
-                                <div class="text">Research</div>
-                              </a>
-                            </li> 
-                            
-                            <li>
-                              <a href="publication.html">
-                                <div class="icon icon-edit"></div>
-                                <div class="text">Publications & Code</div>
-                              </a>
-                            </li> 
+                        <!-- /Profile/logo section-->
 
-<!--                             <li>
-                              <a href="teaching.html">
-                                <div class="icon icon-time"></div>
-                                <div class="text">Teaching</div>
-                              </a>
-                            </li> -->
+                        <!-- Main navigation-->
+                        <div id="main-nav">
+                            <ul id="navigation">
+                                <li class="currentmenu">
+                                  <a href="index.html">
+                                    <i class="fa fa-user"></i>
+                                    <div class="text">About Me</div>
+                                  </a>
+                                </li>  
+                                
+                                <li>
+                                  <a href="research.html">
+                                    <i class="fa fa-bomb"></i>
+                                    <div class="text">Research</div>
+                                  </a>
+                                </li> 
+                                
+                                <li>
+                                  <a href="publication.html">
+                                    <i class="fa fa-edit"></i>
+                                    <div class="text">Publications & Code</div>
+                                  </a>
+                                </li> 
 
-<!--                             <li>
-                              <a href="gallery.html">
-                                <div class="icon icon-picture"></div>
-                                <div class="text">Gallery</div>
-                              </a>
-                            </li> -->
+                                <li>
+                                  <a href="projects.html">
+                                    <i class="fa fa-rocket"></i>
+                                    <div class="text">Projects</div>
+                                  </a>
+                                </li>
 
-                            <li>
-                              <a href="contact.html">
-                                  <div class="icon icon-comments"></div>
-                                  <div class="text">Contact & Misc</div>
-                              </a>
-                            </li>
+                                <li>
+                                  <a href="https://www.gitbook.com/@bigaidream/" target="_blank">
+                                    <div class="fa fa-book"></div>
+                                    <div class="text">GitBooks</div>
+                                  </a>
+                                </li>  
+                                <li>
+                                  <a href="http://bigaidream.tumblr.com/" target="_blank">
+                                    <div class="fa fa-microphone"></div>
+                                    <div class="text">Blog</div>
+                                  </a>
+                                </li>   
 
-                            <li>
-                              <a href="https://www.gitbook.com/@bigaidream/" target="_blank">
-                                  <div class="icon icon-book"></div>
-                                  <div class="text">GitBooks</div>
-                              </a>
-                            </li>                            
+<!--                                 <li>
+                                  <a href="gallery.html">
+                                    <i class="fa fa-picture-o"></i>
+                                    <div class="text">Gallery</div>
+                                  </a>
+                                </li> -->
 
-                            <li>
-                              <a href="http://bigaidream.tumblr.com/" target="_blank">
-                                  <div class="icon icon-microphone"></div>
-                                  <div class="text">Blog</div>
-                              </a>
-                            </li>                            
+                                <li>
+                                  <a href="contact.html">
+                                      <i class="fa fa-comments"></i>
+                                      <div class="text">Contact & Misc</div>
+                                  </a>
+                                </li>
 
+<!--                                 <li class="external">
+                                  <a href="cv.pdf">
+                                      <i class="fa fa-download"></i>
+                                      <div class="text">Download CV</div>
+                                  </a>
+                                </li> -->
+                            </ul>
+                        </div>
+                        <!-- /Main navigation-->
+                        <!-- Sidebar footer -->
+                        <div id="sidebar-footer">
+                            <div class="social-icons">
+                                <ul>
+                                    <li><a href="https://github.com/bigaidream" target="_blank"><i class="fa fa-github"></i></a></li>
+                                    <li><a href="https://www.facebook.com/bigaidream" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/bigaidream" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/bigaidream/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    
+                                </ul>
+                            </div>
 
-<!--                             <li>
-                              <a href="cv.pdf">
-                                  <div class="icon icon-download-alt"></div>
-                                  <div class="text">Download CV</div>
-                              </a>
-                            </li> -->
-                        </ul>
-                    </div>        
+        
+                            <!-- <div id="copyright">Copyright text here</div> -->
+                    
+                        </div>
+                        <!-- /Sidebar footer -->
+                    </div>
+
                 </div>
-                
-                <div class="social-icons">
-                    <ul>
-                        <li><a href="https://www.facebook.com/bigaidream" target="_blank"><i class="icon-facebook"></i></a></li>
-                        <li><a href="https://github.com/bigaidream" target="_blank"><i class="icon-github"></i></a></li>
-                        <li><a href="https://www.linkedin.com/in/bigaidream/" target="_blank"><i class="icon-linkedin"></i></a></li>
-                    </ul>
-                </div>    
             </div>
 
             <div id="main">
@@ -148,26 +163,18 @@
                             <div class="section-container">
                                 
                                 <div class="row">
-                                    <div class="col-sm-2 visible-sm"></div>
-                                    <div class="col-sm-8 col-md-4">
-                                        <div class="biothumb">
-                                            <img alt="image" src="img/personal/personal-big.png" class="img-responsive">
-
-                                        </div>
-                                        
-                                    </div>
                                     <div class="clearfix visible-sm visible-xs"></div>
-                                    <div class="col-sm-12 col-md-7">
-                                        <h3 class="title">Jie Fu</h3>
-                                        <p>Jie Fu is now (read: still) enjoying his PhD journey at <a href="http://www.nus.edu.sg/" target="_blank">National University of Singapore</a> (NUS) fortunately under the supervision of <a href="http://www.comp.nus.edu.sg/~chuats/" target="_blank">Tat-Seng Chua</a> and <a href="http://guppy.mpe.nus.edu.sg/~mpexuh/" target="_blank">Huan Xu</a>, and closely working with <a href="http://www.comp.nus.edu.sg/~lowkh/" target="_blank">Kian Hsiang Low</a>, which is generously supported by <a href="http://www.nus.edu.sg/ngs/" target="_blank">NGS</a>. He received a Research Master's degree in Computer Science (First Class Honours) with scholarship (kindly funded by <a href="http://www.msi.govt.nz/" target="_blank">Ministry of Science + Innovation</a>) from <a href="http://www.otago.ac.nz/" target="_blank">University of Otago</a>, New Zealand, luckily advised by <a href="http://www.cs.otago.ac.nz/staff/brendan.html" target="_blank">Brendan McCane</a> and <a href="http://www.cs.otago.ac.nz/homepages/lubica/index.php" target="_blank">Lubica Benuskova</a>. </p><p>He is interested in machine learning (probability, statistics & programming). More specifically, his research is focused on nonparametric Bayesian learning (Gaussian processes) with applications in social media and finance analysis. He is especially excited about reducing the gap between theoretical and practical algorithms in a principled and efficient manner. Inspired by <a href="http://www.sixwordstories.net/about/" target="_blank">Ernest Hemingway</a>, his current research in 6 words: <strong>open-box probabilistic learning: tunes black-box functions</strong>.</p><p>He strongly believes that the <a href="http://singularityu.org/" target="_blank">singularity</a> is near and <a href="http://2045.com/" target="_blank">2045 Initiative</a> is partially feasible (multiply their estimated time by 2). His medium-term goal is to achieve <a href="http://www.wikiwand.com/en/Artificial_general_intelligence" target="_blank">strong AI</a> by "enriching the set of manipulations applicable to training systems, and building reasoning capabilities from the ground up" - <a href="http://arxiv.org/abs/1102.1808" target="_blank"><em>From Machine Learning to Machine Reasoning</em></a>. In the meanwhile, he agrees that people should "keep an eye on unforeseen <a href="http://www.businessinsider.sg/elon-musk-compares-ai-to-nukes-2014-8/?utm_content=buffer242fd&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer#.U97rp_uSyyE" target="_blank">terrifying scenarios</a> where the products began to threaten humanity".</p>
+                                    <div class="col-sm-6 col-sm-offset-6 col-md-6 col-md-offset-6">
+                                        <h3 class="title">Jie Fu (姐夫)</h3>
+                                        <p>A PhD student, now (read: still) enjoying his journey at <a href="http://www.nus.edu.sg/" target="_blank">National University of Singapore</a> (NUS) fortunately under the supervision of <a href="http://www.comp.nus.edu.sg/~chuats/" target="_blank">Tat-Seng Chua</a> and <a href="http://guppy.mpe.nus.edu.sg/~mpexuh/" target="_blank">Huan Xu</a>, and closely working with <a href="http://www.comp.nus.edu.sg/~lowkh/" target="_blank">Kian Hsiang Low</a>, which is generously supported by <a href="http://www.nus.edu.sg/ngs/" target="_blank">NGS</a>. He received a Research Master's degree in Computer Science (First Class Honours) with scholarship (kindly funded by <a href="http://www.msi.govt.nz/" target="_blank">Ministry of Science + Innovation</a>) from <a href="http://www.otago.ac.nz/" target="_blank">University of Otago</a>, New Zealand, luckily advised by <a href="http://www.cs.otago.ac.nz/staff/brendan.html" target="_blank">Brendan McCane</a> and <a href="http://www.cs.otago.ac.nz/homepages/lubica/index.php" target="_blank">Lubica Benuskova</a>. </p><p>He is interested in machine learning (probability, statistics & programming). More specifically, his research is focused on nonparametric Bayesian learning with applications in social media and financial analysis. He is especially excited about reducing the gap between theoretical and practical algorithms in a principled and efficient manner. Inspired by <a href="http://www.sixwordstories.net/about/" target="_blank">Ernest Hemingway</a>, his current research in 6 words: <strong>open-box probabilistic learning: tunes black-box functions</strong>.</p><p>He strongly believes that the <a href="http://singularityu.org/" target="_blank">singularity</a> is near and <a href="http://2045.com/" target="_blank">2045 Initiative</a> is partially feasible (multiply their estimated time by 2). His medium-term goal is to achieve <a href="http://www.wikiwand.com/en/Artificial_general_intelligence" target="_blank">strong AI</a> by "enriching the set of manipulations applicable to training systems, and building reasoning capabilities from the ground up" - <a href="http://arxiv.org/abs/1102.1808" target="_blank"><em>From Machine Learning to Machine Reasoning</em></a>. In the meanwhile, he agrees that people should "keep an eye on unforeseen <a href="http://www.businessinsider.sg/elon-musk-compares-ai-to-nukes-2014-8/?utm_content=buffer242fd&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer#.U97rp_uSyyE" target="_blank">terrifying scenarios</a> where the products began to threaten humanity".</p>
                                     </div>  
-                                    
                                 </div>
                             </div>        
                         </div>
                     </div>
 
                     <div class="pagecontents">
+
                         <div class="section color-1">
                             <div class="section-container">
                                 <div class="row">
@@ -217,11 +224,11 @@
                                                 </div>
                                             </li>
                                         </ul>
-                                    </div> -->
-                                    <!-- <div class="col-md-5"> -->
+                                    </div>
+                                    <div class="col-md-5"> -->
                                     <div class="col-md-10 col-md-offset-1">
                                         <div class="title text-center">
-                                            <h3>Education</h3>
+                                            <h3>Education & Training</h3>
                                         </div>
                                         <ul class="ul-card">
                                             <li>
@@ -246,11 +253,20 @@
 
                                             
                                         </ul>
-
+                                    </div>  
                                     </div>    
                                 </div>    
+                            </div> 
+                        </div>
+
+                        <div class="section fixedbg parallax">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="col-md-6 col-md-offset-3">
+                                        <h2 class="heading">Life is `One Piece` of ...</h2>
+                                    </div>
+                                </div>
                             </div>
-                                
                         </div>
 
                         <div class="section color-2">
@@ -343,13 +359,10 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>                            
+                        </div>                              
                     </div>
                 </div>
 
-                
-
-                
             </div>
         </div>
     </body>
