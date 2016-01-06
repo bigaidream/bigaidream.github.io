@@ -179,7 +179,7 @@
                                         <div class="col-md-6">
                                             <select id="cd-dropdown" name="cd-dropdown" class="cd-select">
                                                 <option class="filter" value="all" selected>All types</option>
-                                                <option class="filter" value="jpaper">Jounal Papers</option>
+                                                <option class="filter" value="preprint">Preprints</option>
                                                 <option class="filter" value="cpaper">Conference Papers</option>
                                                 <!-- <option class="filter" value="bookchapter">Book Chapters</option> -->
                                                 <!-- <option class="filter" value="book">Books</option> -->
@@ -207,6 +207,36 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <div class="pitems">
+
+
+                                                <div class="item mix preprint" data-year="2016">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="fa fa-expand"></i>
+                                                            </a>
+ <!--                                                            <a href="#" target="_blank">
+                                                                <i class="fa fa-external-link"></i>
+                                                            </a> -->
+                                                            <a href="http://arxiv.org/abs/1601.00917" class="tooltips" title="View Paper" target="_blank">
+                                                                <i class="fa fa-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks </h4>
+                                                        <div class="pubauthor"><strong>Jie Fu</strong>, Hongyin Luo, Jiashi Feng, Tat-Seng Chua</div>
+                                                        <div class="pubcite"><span class="label label-warning">Preprints</span> arXiv 1601.00917</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                    	<img alt="image" src="img/pubs/DrMAD.jpg" align="left"  style="padding:0 30px 30px 0;">
+                                                        <h4>Abstract</h4>
+                                                        <p>The performance of deep neural networks is well known to be sensitive to the setting of their hyperparameters. Recent advances in reverse-mode automatic differentiation allow for optimizing hyperparameters with gradients. The standard way of computing these gradients involves a forward and backward pass of computations. However, the backward pass usually needs to consume unaffordable memory to store all the intermediate variables to exactly reverse a training procedure. In this work we propose a new method, DrMAD, to distill the knowledge of the forward pass into an shortcut path, through which we approximately reverse the training trajectory. Experiments on MNIST dataset show that DrMAD reduces memory consumption by 4 orders of magnitude for optimizing hyperparameters without sacrificing its effectiveness. To the best of our knowledge, DrMAD is the first research attempt to automatically tune hundreds of thousands of hyperparameters of deep neural networks in practice.</p>
+                                                    </div>
+                                                </div>
+
                                                 
                                                 <div class="item mix cpaper" data-year="2015">
                                                     <div class="pubmain">
