@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aston Zhang on big AI dream | Jie Fu</title>
-    <link>/authors/aston-zhang/</link>
-    <description>Recent content in Aston Zhang on big AI dream | Jie Fu</description>
+    <title>Publications on big AI dream | Jie Fu</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on big AI dream | Jie Fu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/aston-zhang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graph Neural Networks with Generated Parameters for Relation Extraction</title>
+      <link>/publication/zhu-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/zhu-2019/</guid>
+      <description>ACL (Long Paper), 2019</description>
+    </item>
     
     <item>
       <title>Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks</title>
@@ -26,6 +35,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/tay-2019-a/</guid>
+      <description>ACL (Long Paper), 2019</description>
+    </item>
+    
+    <item>
+      <title>TIGS: An Inference Algorithm for Text Infilling with Gradient Search</title>
+      <link>/publication/liu-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/liu-2019/</guid>
       <description>ACL (Long Paper), 2019</description>
     </item>
     
