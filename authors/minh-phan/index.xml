@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minh Phan on big AI dream | Jie Fu</title>
+    <link>/authors/minh-phan/</link>
+    <description>Recent content in Minh Phan on big AI dream | Jie Fu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/minh-phan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives</title>
+      <link>/publication/tay-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tay-2019-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
