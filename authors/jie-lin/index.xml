@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jie Lin on big AI dream | Jie Fu</title>
+    <link>/authors/jie-lin/</link>
+    <description>Recent content in Jie Lin on big AI dream | Jie Fu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/jie-lin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dataflow-Based Joint Quantization for Deep Neural Networks</title>
+      <link>/publication/geng-2019/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/geng-2019/</guid>
+      <description>DCC, 2019</description>
+    </item>
+    
+  </channel>
+</rss>
