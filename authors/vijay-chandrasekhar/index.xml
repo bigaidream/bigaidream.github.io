@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vijay Chandrasekhar on big AI dream | Jie Fu</title>
+    <title>Vijay Chandrasekhar | big AI dream | Jie Fu</title>
     <link>/authors/vijay-chandrasekhar/</link>
-    <description>Recent content in Vijay Chandrasekhar on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/vijay-chandrasekhar/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/vijay-chandrasekhar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vijay Chandrasekhar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vijay Chandrasekhar</title>
+      <link>/authors/vijay-chandrasekhar/</link>
+    </image>
     
     <item>
       <title>Dataflow-Based Joint Quantization for Deep Neural Networks</title>
       <link>/publication/geng-2019/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/geng-2019/</guid>
-      <description>DCC, 2019</description>
+      <description></description>
     </item>
     
   </channel>

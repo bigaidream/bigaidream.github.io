@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yidan Zhang on big AI dream | Jie Fu</title>
+    <title>Yidan Zhang | big AI dream | Jie Fu</title>
     <link>/authors/yidan-zhang/</link>
-    <description>Recent content in Yidan Zhang on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/yidan-zhang/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/yidan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yidan Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yidan Zhang</title>
+      <link>/authors/yidan-zhang/</link>
+    </image>
     
     <item>
       <title>Revision in Continuous Space: Fine-Grained Control of Text Style Transfer</title>
       <link>/publication/liu-2019a/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/liu-2019a/</guid>
-      <description>arXiv:1905.12304</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,21 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on big AI dream | Jie Fu</title>
+    <title>Authors | big AI dream | Jie Fu</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adam Trischler</title>
+      <link>/authors/adam-trischler/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/adam-trischler/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Christopher Pal</title>
+      <link>/authors/christopher-pal/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christopher-pal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jie Fu</title>
+      <link>/authors/jie-fu/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jie-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc-Alexandre Cote</title>
+      <link>/authors/marc-alexandre-cote/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/marc-alexandre-cote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xingdi Yuan</title>
+      <link>/authors/xingdi-yuan/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xingdi-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoshua Bengio</title>
+      <link>/authors/yoshua-bengio/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yoshua-bengio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhouhan Lin</title>
+      <link>/authors/zhouhan-lin/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zhouhan-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Tay</title>
+      <link>/authors/yi-tay/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yi-tay/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dayiheng Liu</title>
       <link>/authors/dayiheng-liu/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/dayiheng-liu/</guid>
       <description></description>
     </item>
@@ -24,17 +88,7 @@
       <title>Jianfeng Lv</title>
       <link>/authors/jianfeng-lv/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/jianfeng-lv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jie Fu</title>
-      <link>/authors/jie-fu/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/jie-fu/</guid>
       <description></description>
     </item>
     
@@ -42,7 +96,6 @@
       <title>Pengfei Liu</title>
       <link>/authors/pengfei-liu/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/pengfei-liu/</guid>
       <description></description>
     </item>
@@ -51,7 +104,6 @@
       <title>Chris Pal</title>
       <link>/authors/chris-pal/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/chris-pal/</guid>
       <description></description>
     </item>
@@ -60,7 +112,6 @@
       <title>Yidan Zhang</title>
       <link>/authors/yidan-zhang/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/yidan-zhang/</guid>
       <description></description>
     </item>
@@ -69,7 +120,6 @@
       <title>Anh Tuan Luu</title>
       <link>/authors/anh-tuan-luu/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/anh-tuan-luu/</guid>
       <description></description>
     </item>
@@ -78,7 +128,6 @@
       <title>Aston Zhang</title>
       <link>/authors/aston-zhang/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/aston-zhang/</guid>
       <description></description>
     </item>
@@ -87,7 +136,6 @@
       <title>Jinfeng Rao</title>
       <link>/authors/jinfeng-rao/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/jinfeng-rao/</guid>
       <description></description>
     </item>
@@ -96,7 +144,6 @@
       <title>Minh Phan</title>
       <link>/authors/minh-phan/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/minh-phan/</guid>
       <description></description>
     </item>
@@ -105,7 +152,6 @@
       <title>Shuai Zhang</title>
       <link>/authors/shuai-zhang/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/shuai-zhang/</guid>
       <description></description>
     </item>
@@ -114,7 +160,6 @@
       <title>Shuohang Wang</title>
       <link>/authors/shuohang-wang/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/shuohang-wang/</guid>
       <description></description>
     </item>
@@ -123,26 +168,7 @@
       <title>Siu Cheung Hui</title>
       <link>/authors/siu-cheung-hui/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/siu-cheung-hui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xingdi Yuan</title>
-      <link>/authors/xingdi-yuan/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/xingdi-yuan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yi Tay</title>
-      <link>/authors/yi-tay/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/yi-tay/</guid>
       <description></description>
     </item>
     
@@ -150,17 +176,7 @@
       <title>Bin Zhao</title>
       <link>/authors/bin-zhao/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/bin-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christopher Pal</title>
-      <link>/authors/christopher-pal/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/christopher-pal/</guid>
       <description></description>
     </item>
     
@@ -168,7 +184,6 @@
       <title>Jie Lin</title>
       <link>/authors/jie-lin/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/jie-lin/</guid>
       <description></description>
     </item>
@@ -177,7 +192,6 @@
       <title>Mohamed Aly</title>
       <link>/authors/mohamed-aly/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/mohamed-aly/</guid>
       <description></description>
     </item>
@@ -186,7 +200,6 @@
       <title>Vijay Chandrasekhar</title>
       <link>/authors/vijay-chandrasekhar/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/vijay-chandrasekhar/</guid>
       <description></description>
     </item>
@@ -195,7 +208,6 @@
       <title>Xue Geng</title>
       <link>/authors/xue-geng/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/xue-geng/</guid>
       <description></description>
     </item>
@@ -204,7 +216,6 @@
       <title>Hao Zhu</title>
       <link>/authors/hao-zhu/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/hao-zhu/</guid>
       <description></description>
     </item>
@@ -213,16 +224,14 @@
       <title>Maosong Sun</title>
       <link>/authors/maosong-sun/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/maosong-sun/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tat-seng Chua</title>
+      <title>Tat-Seng Chua</title>
       <link>/authors/tat-seng-chua/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/tat-seng-chua/</guid>
       <description></description>
     </item>
@@ -231,7 +240,6 @@
       <title>Yankai Lin</title>
       <link>/authors/yankai-lin/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/yankai-lin/</guid>
       <description></description>
     </item>
@@ -240,7 +248,6 @@
       <title>Zhiyuan Liu</title>
       <link>/authors/zhiyuan-liu/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/zhiyuan-liu/</guid>
       <description></description>
     </item>
@@ -249,7 +256,6 @@
       <title>Jackie Chi Kit Cheung</title>
       <link>/authors/jackie-chi-kit-cheung/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/jackie-chi-kit-cheung/</guid>
       <description></description>
     </item>
@@ -258,7 +264,6 @@
       <title>Xipeng Qiu</title>
       <link>/authors/xipeng-qiu/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/xipeng-qiu/</guid>
       <description></description>
     </item>
@@ -267,7 +272,6 @@
       <title>Yue Dong</title>
       <link>/authors/yue-dong/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/yue-dong/</guid>
       <description></description>
     </item>
@@ -276,7 +280,6 @@
       <title>Jiancheng Lv</title>
       <link>/authors/jiancheng-lv/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/jiancheng-lv/</guid>
       <description></description>
     </item>
@@ -285,7 +288,6 @@
       <title>Qian Qu</title>
       <link>/authors/qian-qu/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/qian-qu/</guid>
       <description></description>
     </item>
@@ -294,7 +296,6 @@
       <title>Danlu Chen</title>
       <link>/authors/danlu-chen/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>/authors/danlu-chen/</guid>
       <description></description>
     </item>
@@ -303,7 +304,6 @@
       <title>Ilija Ilievski</title>
       <link>/authors/ilija-ilievski/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>/authors/ilija-ilievski/</guid>
       <description></description>
     </item>
@@ -312,7 +312,6 @@
       <title>Ritchie Ng</title>
       <link>/authors/ritchie-ng/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>/authors/ritchie-ng/</guid>
       <description></description>
     </item>
@@ -321,7 +320,6 @@
       <title>Hongyin Luo</title>
       <link>/authors/hongyin-luo/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>/authors/hongyin-luo/</guid>
       <description></description>
     </item>
@@ -330,7 +328,6 @@
       <title>Jiashi Feng</title>
       <link>/authors/jiashi-feng/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>/authors/jiashi-feng/</guid>
       <description></description>
     </item>
@@ -339,7 +336,6 @@
       <title>Kian Hsiang Low</title>
       <link>/authors/kian-hsiang-low/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>/authors/kian-hsiang-low/</guid>
       <description></description>
     </item>
@@ -348,7 +344,6 @@
       <title>Erik Cambria</title>
       <link>/authors/erik-cambria/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
       <guid>/authors/erik-cambria/</guid>
       <description></description>
     </item>
@@ -357,7 +352,6 @@
       <title>Federica Bisio</title>
       <link>/authors/federica-bisio/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
       <guid>/authors/federica-bisio/</guid>
       <description></description>
     </item>
@@ -366,7 +360,6 @@
       <title>Soujanya Poria</title>
       <link>/authors/soujanya-poria/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
       <guid>/authors/soujanya-poria/</guid>
       <description></description>
     </item>
@@ -375,9 +368,9 @@
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/authors/admin/</guid>
-      <description>Weakly-supervised and happy 😄 machine learning researcher with his human-friendly big AI dream. He is enjoying his postdoc journey at Quebec Artificial Intelligence Institute (Mila), hosted by Chris Pal, to prepare for the coming AI winter, as Eddard Stark said &amp;ldquo;He won&amp;rsquo;t be a boy forever and winter is coming&amp;rdquo; &amp;ndash; Game of Thrones.</description>
+      <description>&lt;p&gt;Weakly-supervised and &lt;a href=&#34;http://i.imgur.com/LvsYBqC.jpg&#34; target=&#34;_blank&#34;&gt;happy 😄&lt;/a&gt; machine learning researcher with his human-friendly big AI dream. He is enjoying his postdoc journey at &lt;a href=&#34;https://mila.quebec/en/&#34; target=&#34;_blank&#34;&gt;Quebec Artificial Intelligence Institute (Mila)&lt;/a&gt;, hosted by Chris Pal, to prepare for the coming AI winter, as Eddard Stark said &amp;ldquo;He won&amp;rsquo;t be a boy forever and winter is coming&amp;rdquo; &amp;ndash; &lt;em&gt;Game of Thrones&lt;/em&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

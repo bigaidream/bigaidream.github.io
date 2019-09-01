@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xingdi Yuan on big AI dream | Jie Fu</title>
+    <title>Xingdi Yuan | big AI dream | Jie Fu</title>
     <link>/authors/xingdi-yuan/</link>
-    <description>Recent content in Xingdi Yuan on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+      <atom:link href="/authors/xingdi-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xingdi Yuan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Xingdi Yuan</title>
+      <link>/authors/xingdi-yuan/</link>
+    </image>
     
-	<atom:link href="/authors/xingdi-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Language Learning by Question Answering</title>
+      <link>/publication/yuan-2019-a/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019-a/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Interactive Machine Comprehension with Information Seeking Agents</title>
+      <link>/publication/yuan-2019/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives</title>
       <link>/publication/tay-2019-a/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/tay-2019-a/</guid>
-      <description>ACL (Long Paper), 2019</description>
+      <description></description>
     </item>
     
   </channel>

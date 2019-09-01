@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christopher Pal on big AI dream | Jie Fu</title>
+    <title>Christopher Pal | big AI dream | Jie Fu</title>
     <link>/authors/christopher-pal/</link>
-    <description>Recent content in Christopher Pal on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+      <atom:link href="/authors/christopher-pal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Pal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Christopher Pal</title>
+      <link>/authors/christopher-pal/</link>
+    </image>
     
-	<atom:link href="/authors/christopher-pal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Language Learning by Question Answering</title>
+      <link>/publication/yuan-2019-a/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019-a/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Interactive Machine Comprehension with Information Seeking Agents</title>
+      <link>/publication/yuan-2019/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dataflow-Based Joint Quantization for Deep Neural Networks</title>
       <link>/publication/geng-2019/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/geng-2019/</guid>
-      <description>DCC, 2019</description>
+      <description></description>
     </item>
     
   </channel>

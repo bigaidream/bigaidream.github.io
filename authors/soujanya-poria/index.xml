@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soujanya Poria on big AI dream | Jie Fu</title>
+    <title>Soujanya Poria | big AI dream | Jie Fu</title>
     <link>/authors/soujanya-poria/</link>
-    <description>Recent content in Soujanya Poria on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/soujanya-poria/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/soujanya-poria/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soujanya Poria</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Soujanya Poria</title>
+      <link>/authors/soujanya-poria/</link>
+    </image>
     
     <item>
       <title>AffectiveSpace 2: Enabling Affective Intuition for Concept-Level Sentiment Analysis</title>
       <link>/publication/cambria-2015/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/cambria-2015/</guid>
-      <description>AAAI, 2015</description>
+      <description></description>
     </item>
     
   </channel>

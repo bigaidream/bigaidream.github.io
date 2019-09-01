@@ -3,19 +3,35 @@
   <channel>
     <title>big AI dream | Jie Fu</title>
     <link>/</link>
-    <description>Recent content on big AI dream | Jie Fu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>big AI dream | Jie Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>big AI dream | Jie Fu</title>
+      <link>/</link>
+    </image>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Language Learning by Question Answering</title>
+      <link>/publication/yuan-2019-a/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019-a/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Interactive Machine Comprehension with Information Seeking Agents</title>
+      <link>/publication/yuan-2019/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TIGS: An Inference Algorithm for Text Infilling with Gradient Search</title>
       <link>/publication/liu-2019/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/liu-2019/</guid>
       <description></description>
     </item>
@@ -24,7 +40,6 @@
       <title>Revision in Continuous Space: Fine-Grained Control of Text Style Transfer</title>
       <link>/publication/liu-2019a/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/liu-2019a/</guid>
       <description></description>
     </item>
@@ -33,7 +48,6 @@
       <title>Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks</title>
       <link>/publication/tay-2019/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/tay-2019/</guid>
       <description></description>
     </item>
@@ -42,7 +56,6 @@
       <title>Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives</title>
       <link>/publication/tay-2019-a/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/tay-2019-a/</guid>
       <description></description>
     </item>
@@ -51,7 +64,6 @@
       <title>Dataflow-Based Joint Quantization for Deep Neural Networks</title>
       <link>/publication/geng-2019/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/geng-2019/</guid>
       <description></description>
     </item>
@@ -60,7 +72,6 @@
       <title>Graph Neural Networks with Generated Parameters for Relation Extraction</title>
       <link>/publication/zhu-2019/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/zhu-2019/</guid>
       <description></description>
     </item>
@@ -69,7 +80,6 @@
       <title>Multi-task Learning over Graph Structures</title>
       <link>/publication/liu-2018/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/liu-2018/</guid>
       <description></description>
     </item>
@@ -78,7 +88,6 @@
       <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
       <link>/publication/liu-2018a/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/liu-2018a/</guid>
       <description></description>
     </item>
@@ -87,7 +96,6 @@
       <title>Neural Optimizers with Hypergradients for Tuning Parameter-Wise Learning Rates</title>
       <link>/publication/fu-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>/publication/fu-2017/</guid>
       <description></description>
     </item>
@@ -96,7 +104,6 @@
       <title>DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks</title>
       <link>/publication/fu-2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>/publication/fu-2016/</guid>
       <description></description>
     </item>
@@ -105,7 +112,6 @@
       <title>AffectiveSpace 2: Enabling Affective Intuition for Concept-Level Sentiment Analysis</title>
       <link>/publication/cambria-2015/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/cambria-2015/</guid>
       <description></description>
     </item>

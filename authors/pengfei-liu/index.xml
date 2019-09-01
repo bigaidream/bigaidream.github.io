@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pengfei Liu on big AI dream | Jie Fu</title>
+    <title>Pengfei Liu | big AI dream | Jie Fu</title>
     <link>/authors/pengfei-liu/</link>
-    <description>Recent content in Pengfei Liu on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/pengfei-liu/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/pengfei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pengfei Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Pengfei Liu</title>
+      <link>/authors/pengfei-liu/</link>
+    </image>
     
     <item>
       <title>TIGS: An Inference Algorithm for Text Infilling with Gradient Search</title>
       <link>/publication/liu-2019/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/liu-2019/</guid>
-      <description>ACL (Long Paper), 2019</description>
+      <description></description>
     </item>
     
     <item>
       <title>Multi-task Learning over Graph Structures</title>
       <link>/publication/liu-2018/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/liu-2018/</guid>
-      <description>AAAI, 2019</description>
+      <description></description>
     </item>
     
   </channel>

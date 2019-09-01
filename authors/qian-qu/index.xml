@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qian Qu on big AI dream | Jie Fu</title>
+    <title>Qian Qu | big AI dream | Jie Fu</title>
     <link>/authors/qian-qu/</link>
-    <description>Recent content in Qian Qu on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/qian-qu/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/qian-qu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qian Qu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Qian Qu</title>
+      <link>/authors/qian-qu/</link>
+    </image>
     
     <item>
       <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
       <link>/publication/liu-2018a/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/liu-2018a/</guid>
-      <description>arXiv:1806.08097</description>
+      <description></description>
     </item>
     
   </channel>

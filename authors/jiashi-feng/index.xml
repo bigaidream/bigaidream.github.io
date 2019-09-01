@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jiashi Feng on big AI dream | Jie Fu</title>
+    <title>Jiashi Feng | big AI dream | Jie Fu</title>
     <link>/authors/jiashi-feng/</link>
-    <description>Recent content in Jiashi Feng on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/jiashi-feng/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/jiashi-feng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiashi Feng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jiashi Feng</title>
+      <link>/authors/jiashi-feng/</link>
+    </image>
     
     <item>
       <title>DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks</title>
       <link>/publication/fu-2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>/publication/fu-2016/</guid>
-      <description>IJCAI, 2016</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yue Dong on big AI dream | Jie Fu</title>
+    <title>Yue Dong | big AI dream | Jie Fu</title>
     <link>/authors/yue-dong/</link>
-    <description>Recent content in Yue Dong on big AI dream | Jie Fu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/yue-dong/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/yue-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yue Dong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yue Dong</title>
+      <link>/authors/yue-dong/</link>
+    </image>
     
     <item>
       <title>Multi-task Learning over Graph Structures</title>
       <link>/publication/liu-2018/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/liu-2018/</guid>
-      <description>AAAI, 2019</description>
+      <description></description>
     </item>
     
   </channel>
