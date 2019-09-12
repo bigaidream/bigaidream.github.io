@@ -5,12 +5,44 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Dayiheng Liu</title>
+      <link>/authors/dayiheng-liu/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/dayiheng-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiancheng Lv</title>
+      <link>/authors/jiancheng-lv/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jiancheng-lv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jie Fu</title>
+      <link>/authors/jie-fu/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jie-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qian Qu</title>
+      <link>/authors/qian-qu/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/qian-qu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adam Trischler</title>
@@ -25,14 +57,6 @@
       <link>/authors/christopher-pal/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/christopher-pal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jie Fu</title>
-      <link>/authors/jie-fu/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jie-fu/</guid>
       <description></description>
     </item>
     
@@ -73,14 +97,6 @@
       <link>/authors/yi-tay/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/yi-tay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dayiheng Liu</title>
-      <link>/authors/dayiheng-liu/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/dayiheng-liu/</guid>
       <description></description>
     </item>
     
@@ -273,22 +289,6 @@
       <link>/authors/yue-dong/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/authors/yue-dong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiancheng Lv</title>
-      <link>/authors/jiancheng-lv/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/jiancheng-lv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qian Qu</title>
-      <link>/authors/qian-qu/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/qian-qu/</guid>
       <description></description>
     </item>
     

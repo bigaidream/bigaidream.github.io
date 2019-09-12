@@ -5,12 +5,20 @@
     <link>/authors/dayiheng-liu/</link>
       <atom:link href="/authors/dayiheng-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Dayiheng Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dayiheng Liu</title>
       <link>/authors/dayiheng-liu/</link>
     </image>
+    
+    <item>
+      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
+      <link>/publication/liu-2019b/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2019b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TIGS: An Inference Algorithm for Text Infilling with Gradient Search</title>
@@ -25,14 +33,6 @@
       <link>/publication/liu-2019a/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       <guid>/publication/liu-2019a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
-      <link>/publication/liu-2018a/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2018a/</guid>
       <description></description>
     </item>
     
