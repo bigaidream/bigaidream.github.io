@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Chris Pal</title>
+      <link>/authors/chris-pal/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/chris-pal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dayiheng Liu</title>
       <link>/authors/dayiheng-liu/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/dayiheng-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianfeng Lv</title>
+      <link>/authors/jianfeng-lv/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jianfeng-lv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jie Fu</title>
+      <link>/authors/jie-fu/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jie-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yidan Zhang</title>
+      <link>/authors/yidan-zhang/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yidan-zhang/</guid>
       <description></description>
     </item>
     
@@ -25,14 +57,6 @@
       <link>/authors/jiancheng-lv/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jiancheng-lv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jie Fu</title>
-      <link>/authors/jie-fu/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jie-fu/</guid>
       <description></description>
     </item>
     
@@ -101,34 +125,10 @@
     </item>
     
     <item>
-      <title>Jianfeng Lv</title>
-      <link>/authors/jianfeng-lv/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jianfeng-lv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pengfei Liu</title>
       <link>/authors/pengfei-liu/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/pengfei-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chris Pal</title>
-      <link>/authors/chris-pal/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/chris-pal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yidan Zhang</title>
-      <link>/authors/yidan-zhang/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/yidan-zhang/</guid>
       <description></description>
     </item>
     
