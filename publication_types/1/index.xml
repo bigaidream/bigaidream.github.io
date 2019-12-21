@@ -5,12 +5,20 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Jacobian Adversarially Regularized Networks for Robustness</title>
+      <link>/publication/chan-2020/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chan-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revision in Continuous Space: Fine-Grained Control of Text Style Transfer</title>

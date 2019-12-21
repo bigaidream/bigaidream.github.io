@@ -5,12 +5,44 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Alvin Chan</title>
+      <link>/authors/alvin-chan/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/alvin-chan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jie Fu</title>
+      <link>/authors/jie-fu/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jie-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yew Soon Ong</title>
+      <link>/authors/yew-soon-ong/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yew-soon-ong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Tay</title>
+      <link>/authors/yi-tay/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yi-tay/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chris Pal</title>
@@ -37,14 +69,6 @@
     </item>
     
     <item>
-      <title>Jie Fu</title>
-      <link>/authors/jie-fu/</link>
-      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jie-fu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yidan Zhang</title>
       <link>/authors/yidan-zhang/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
@@ -65,14 +89,6 @@
       <link>/authors/adam-trischler/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/adam-trischler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christopher Pal</title>
-      <link>/authors/christopher-pal/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/christopher-pal/</guid>
       <description></description>
     </item>
     
@@ -105,14 +121,6 @@
       <link>/authors/zhouhan-lin/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/zhouhan-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yi Tay</title>
-      <link>/authors/yi-tay/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/yi-tay/</guid>
       <description></description>
     </item>
     
