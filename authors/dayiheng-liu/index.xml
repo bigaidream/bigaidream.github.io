@@ -6,12 +6,6 @@
       <atom:link href="/authors/dayiheng-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Dayiheng Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>Dayiheng Liu</title>
-      <link>/authors/dayiheng-liu/</link>
-    </image>
-    
     <item>
       <title>Revision in Continuous Space: Fine-Grained Control of Text Style Transfer</title>
       <link>/publication/liu-2019a/</link>
