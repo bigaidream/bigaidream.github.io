@@ -6,6 +6,12 @@
       <atom:link href="/authors/yew-soon-ong/index.xml" rel="self" type="application/rss+xml" />
     <description>Yew Soon Ong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yew Soon Ong</title>
+      <link>/authors/yew-soon-ong/</link>
+    </image>
+    
     <item>
       <title>Jacobian Adversarially Regularized Networks for Robustness</title>
       <link>/publication/chan-2020/</link>

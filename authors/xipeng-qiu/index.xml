@@ -6,6 +6,12 @@
       <atom:link href="/authors/xipeng-qiu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xipeng Qiu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Xipeng Qiu</title>
+      <link>/authors/xipeng-qiu/</link>
+    </image>
+    
     <item>
       <title>Multi-task Learning over Graph Structures</title>
       <link>/publication/liu-2018/</link>

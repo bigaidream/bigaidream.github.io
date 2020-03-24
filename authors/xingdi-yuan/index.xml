@@ -6,6 +6,12 @@
       <atom:link href="/authors/xingdi-yuan/index.xml" rel="self" type="application/rss+xml" />
     <description>Xingdi Yuan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Xingdi Yuan</title>
+      <link>/authors/xingdi-yuan/</link>
+    </image>
+    
     <item>
       <title>Interactive Language Learning by Question Answering</title>
       <link>/publication/yuan-2019-a/</link>

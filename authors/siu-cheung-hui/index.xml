@@ -6,6 +6,12 @@
       <atom:link href="/authors/siu-cheung-hui/index.xml" rel="self" type="application/rss+xml" />
     <description>Siu Cheung Hui</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Siu Cheung Hui</title>
+      <link>/authors/siu-cheung-hui/</link>
+    </image>
+    
     <item>
       <title>Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks</title>
       <link>/publication/tay-2019/</link>

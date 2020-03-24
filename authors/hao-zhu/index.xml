@@ -6,6 +6,12 @@
       <atom:link href="/authors/hao-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Hao Zhu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Hao Zhu</title>
+      <link>/authors/hao-zhu/</link>
+    </image>
+    
     <item>
       <title>Graph Neural Networks with Generated Parameters for Relation Extraction</title>
       <link>/publication/zhu-2019/</link>

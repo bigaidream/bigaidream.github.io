@@ -6,6 +6,12 @@
       <atom:link href="/authors/jiashi-feng/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiashi Feng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jiashi Feng</title>
+      <link>/authors/jiashi-feng/</link>
+    </image>
+    
     <item>
       <title>DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks</title>
       <link>/publication/fu-2016/</link>
