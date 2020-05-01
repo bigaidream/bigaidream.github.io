@@ -5,12 +5,28 @@
     <link>/authors/chris-pal/</link>
       <atom:link href="/authors/chris-pal/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Pal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Chris Pal</title>
       <link>/authors/chris-pal/</link>
     </image>
+    
+    <item>
+      <title>Role-Wise Data Augmentation for Knowledge Distillation</title>
+      <link>/publication/fu-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Machine Comprehension with Information Seeking Agents</title>
+      <link>/publication/yuan-2019/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revision in Continuous Space: Fine-Grained Control of Text Style Transfer</title>
@@ -25,14 +41,6 @@
       <link>/publication/yuan-2019-a/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/publication/yuan-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactive Machine Comprehension with Information Seeking Agents</title>
-      <link>/publication/yuan-2019/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yuan-2019/</guid>
       <description></description>
     </item>
     

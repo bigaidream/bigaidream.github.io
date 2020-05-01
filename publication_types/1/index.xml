@@ -5,12 +5,28 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Interactive Machine Comprehension with Information Seeking Agents</title>
+      <link>/publication/yuan-2019/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RikiNet: Reading Wikipedia Pages for Natural Question Answering</title>
+      <link>/publication/liu-2020/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jacobian Adversarially Regularized Networks for Robustness</title>

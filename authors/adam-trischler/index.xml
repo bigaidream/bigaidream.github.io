@@ -5,7 +5,7 @@
     <link>/authors/adam-trischler/</link>
       <atom:link href="/authors/adam-trischler/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Trischler</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Adam Trischler</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Interactive Language Learning by Question Answering</title>
-      <link>/publication/yuan-2019-a/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yuan-2019-a/</guid>
+      <title>Role-Wise Data Augmentation for Knowledge Distillation</title>
+      <link>/publication/fu-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fu-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive Machine Comprehension with Information Seeking Agents</title>
       <link>/publication/yuan-2019/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/yuan-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Language Learning by Question Answering</title>
+      <link>/publication/yuan-2019-a/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019-a/</guid>
       <description></description>
     </item>
     

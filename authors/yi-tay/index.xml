@@ -5,7 +5,7 @@
     <link>/authors/yi-tay/</link>
       <atom:link href="/authors/yi-tay/index.xml" rel="self" type="application/rss+xml" />
     <description>Yi Tay</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Yi Tay</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Jacobian Adversarially Regularized Networks for Robustness</title>
-      <link>/publication/chan-2020/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/chan-2020/</guid>
+      <title>Interactive Machine Comprehension with Information Seeking Agents</title>
+      <link>/publication/yuan-2019/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yuan-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Interactive Machine Comprehension with Information Seeking Agents</title>
-      <link>/publication/yuan-2019/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yuan-2019/</guid>
+      <title>Jacobian Adversarially Regularized Networks for Robustness</title>
+      <link>/publication/chan-2020/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chan-2020/</guid>
       <description></description>
     </item>
     
