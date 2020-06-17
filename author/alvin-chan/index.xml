@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alvin Chan | Big AI Dream | Jie Fu</title>
+    <link>/author/alvin-chan/</link>
+      <atom:link href="/author/alvin-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alvin Chan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <title>Alvin Chan</title>
+      <link>/author/alvin-chan/</link>
+    </image>
+    
+    <item>
+      <title>Jacobian Adversarially Regularized Networks for Robustness</title>
+      <link>/publication/chan-2020/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chan-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

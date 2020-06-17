@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhijian Duan | Big AI Dream | Jie Fu</title>
+    <link>/author/zhijian-duan/</link>
+      <atom:link href="/author/zhijian-duan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhijian Duan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhijian Duan</title>
+      <link>/author/zhijian-duan/</link>
+    </image>
+    
+    <item>
+      <title>Role-Wise Data Augmentation for Knowledge Distillation</title>
+      <link>/publication/fu-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fu-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
