@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/3/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,7 +78,7 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -95,6 +95,11 @@
   <url>
     <loc>/author/yi-tay/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -183,11 +188,6 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/liu-2019b/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url>
@@ -260,6 +260,11 @@
   <url>
     <loc>/author/siu-cheung-hui/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
