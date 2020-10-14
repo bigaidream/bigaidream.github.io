@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Liu | Big AI Dream | Jie Fu</title>
+    <link>/author/wei-liu/</link>
+      <atom:link href="/author/wei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <title>Wei Liu</title>
+      <link>/author/wei-liu/</link>
+    </image>
+    
+    <item>
+      <title>Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation</title>
+      <link>/publication/liu-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2020-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
