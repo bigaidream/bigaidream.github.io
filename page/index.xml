@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages | Big AI Dream | Jie Fu</title>
+    <link>/page/</link>
+      <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pages</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <title>Pages</title>
+      <link>/page/</link>
+    </image>
+    
+    <item>
+      <title>Co-Advise Junior Students</title>
+      <link>/page/advise/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/page/advise/</guid>
+      <description>&lt;p&gt;I am always passionate about advising / working with junior students. Here is a list of my current research interests:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;: Meta RL, goal-conditioned, hierarchical RL, multi-agent RL, sample-efficient RL, emergent communication, RL for social good (power network)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language Processing&lt;/strong&gt;: Protein sequence modeling, text generation, question answering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;current&#34;&gt;Current&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Dan Liu, Meta Learning, PhD student at McGill University&lt;/li&gt;
+&lt;li&gt;Jikun Kang, Meta RL , PhD student at McGill University&lt;/li&gt;
+&lt;li&gt;Filip Tolovski, RL for power network , student at Freie University Berlin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Bingchan Zhao, RL for power network, undergraduate student at Peking University -&amp;gt; master student at Peking University&lt;/li&gt;
+&lt;li&gt;Zhijian Duan, RL, undergraduate student at Peking University -&amp;gt; PhD student at Peking University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Mustafa Alghali, AI for social good, master student at AMMI&lt;/li&gt;
+&lt;li&gt;Ronak Pradeep, Question answering, undergraduate student at University of Waterloo -&amp;gt; master student at University of Waterloo&lt;/li&gt;
+&lt;li&gt;Ning Dai, Translation, undergraduate student at Fudan University -&amp;gt; research intern at ByteDance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2018&#34;&gt;2018&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Vardaan Pahuja, Visual question answering, master student at Mila -&amp;gt; PhD student at Ohio State University&lt;/li&gt;
+&lt;li&gt;Shangbang Long, Adversarial attack, undergraduate student at Peking University -&amp;gt; master student at CMU&lt;/li&gt;
+&lt;li&gt;Dayiheng Liu, Text generation, PhD student at Sichuan University -&amp;gt; research intern at Microsoft Research Asia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2017&#34;&gt;2017&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Danlu Chen, Hyperparameter optimization, undergraduate student at Fudan University -&amp;gt; PhD student at UCSD&lt;/li&gt;
+&lt;li&gt;Ritchie Ng, Hyperparameter optimization, undergraduate student at NUS -&amp;gt; hedge fund&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2016&#34;&gt;2016&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Zichuan Lin, RL, undergraduate student at Tsinghua University -&amp;gt; PhD student at Tsinghua University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2015&#34;&gt;2015&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Hongyin Luo, Hyperparameter optimization, undergraduate student at Tsinghua University -&amp;gt; PhD student at MIT&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
