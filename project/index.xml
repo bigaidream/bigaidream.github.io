@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Big AI Dream | Jie Fu</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Drug-Target Interaction</title>
+      <link>/project/drug_dis/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/drug_dis/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m working on drug-target interaction prediction projects, which can be used to screen potential drugs.
+I&amp;rsquo;m using tools from NLP community, e.g. language models.
+Wil share results soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta RL</title>
+      <link>/project/meta_rl/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/meta_rl/</guid>
+      <description>&lt;p&gt;Sample efficiency is key to the real-world application of RL. That is we wish to minimize the interactions between the RL and the environment.&lt;/p&gt;
+&lt;p&gt;Right now, I&amp;rsquo;m working on meta RL projects. Wil share results soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

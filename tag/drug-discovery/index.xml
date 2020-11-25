@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drug Discovery | Big AI Dream | Jie Fu</title>
+    <link>/tag/drug-discovery/</link>
+      <atom:link href="/tag/drug-discovery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Drug Discovery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <title>Drug Discovery</title>
+      <link>/tag/drug-discovery/</link>
+    </image>
+    
+    <item>
+      <title>Drug-Target Interaction</title>
+      <link>/project/drug_dis/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/drug_dis/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m working on drug-target interaction prediction projects, which can be used to screen potential drugs.
+I&amp;rsquo;m using tools from NLP community, e.g. language models.
+Wil share results soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

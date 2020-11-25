@@ -5,12 +5,33 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Big AI Dream | Jie Fu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
       <title>Big AI Dream | Jie Fu</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Drug-Target Interaction</title>
+      <link>/project/drug_dis/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/drug_dis/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m working on drug-target interaction prediction projects, which can be used to screen potential drugs.
+I&amp;rsquo;m using tools from NLP community, e.g. language models.
+Wil share results soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta RL</title>
+      <link>/project/meta_rl/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/meta_rl/</guid>
+      <description>&lt;p&gt;Sample efficiency is key to the real-world application of RL. That is we wish to minimize the interactions between the RL and the environment.&lt;/p&gt;
+&lt;p&gt;Right now, I&amp;rsquo;m working on meta RL projects. Wil share results soon.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Co-Advise Junior Students</title>
@@ -24,50 +45,50 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;current&#34;&gt;Current&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Dan Liu, Meta Learning, PhD student at McGill University&lt;/li&gt;
-&lt;li&gt;Jikun Kang, Meta RL , PhD student at McGill University&lt;/li&gt;
-&lt;li&gt;Filip Tolovski, RL for power network , student at Freie University Berlin&lt;/li&gt;
+&lt;li&gt;Dan Liu, Meta Learning, PhD at McGill University&lt;/li&gt;
+&lt;li&gt;Jikun Kang, Meta RL , PhD at McGill University&lt;/li&gt;
+&lt;li&gt;Filip Tolovski, RL for power network , master at Freie University Berlin&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Bingchan Zhao, RL for power network, undergraduate student at Peking University
-  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;master student at Peking University&lt;/li&gt;
-&lt;li&gt;Zhijian Duan, RL, undergraduate student at Peking University 
-  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt; PhD student at Peking University&lt;/li&gt;
+&lt;li&gt;Bingchan Zhao, RL for power network, undergraduate at Peking University
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;master at Peking University&lt;/li&gt;
+&lt;li&gt;Zhijian Duan, RL, undergraduate at Peking University 
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt; PhD at Peking University&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Mustafa Alghali, AI for social good, master student at AMMI&lt;/li&gt;
-&lt;li&gt;Ronak Pradeep, Question answering, undergraduate student at University of Waterloo
-  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;master student at University of Waterloo&lt;/li&gt;
-&lt;li&gt;Ning Dai, Translation, undergraduate student at Fudan University
+&lt;li&gt;Mustafa Alghali, AI for social good, master at AMMI&lt;/li&gt;
+&lt;li&gt;Ronak Pradeep, Question answering, undergraduate at University of Waterloo
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;master at University of Waterloo&lt;/li&gt;
+&lt;li&gt;Ning Dai, Translation, undergraduate at Fudan University
   &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;research intern at ByteDance&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2018&#34;&gt;2018&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Dayiheng Liu, Text generation, PhD student at Sichuan University
+&lt;li&gt;Dayiheng Liu, Text generation, PhD at Sichuan University
   &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;research intern at Microsoft Research Asia&lt;/li&gt;
-&lt;li&gt;Shangbang Long, Adversarial attack, undergraduate student at Peking University
-  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;master student at CMU&lt;/li&gt;
-&lt;li&gt;Vardaan Pahuja, Visual question answering, master student at Mila
-  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;PhD student at Ohio State University&lt;/li&gt;
+&lt;li&gt;Shangbang Long, Adversarial attack, undergraduate at Peking University
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;master at CMU&lt;/li&gt;
+&lt;li&gt;Vardaan Pahuja, Visual question answering, master at Mila
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;PhD at Ohio State University&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2017&#34;&gt;2017&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Danlu Chen, Hyperparameter optimization, undergraduate student at Fudan University
-  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;PhD student at UCSD&lt;/li&gt;
-&lt;li&gt;Ritchie Ng, Hyperparameter optimization, undergraduate student at NUS
+&lt;li&gt;Danlu Chen, Hyperparameter optimization, undergraduate at Fudan University
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;PhD at UCSD&lt;/li&gt;
+&lt;li&gt;Ritchie Ng, Hyperparameter optimization, undergraduate at NUS
   &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;hedge fund&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2016&#34;&gt;2016&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Zichuan Lin, RL, undergraduate student at Tsinghua University
-  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;PhD student at Tsinghua University&lt;/li&gt;
+&lt;li&gt;Zichuan Lin, RL, undergraduate at Tsinghua University
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;PhD at Tsinghua University&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2015&#34;&gt;2015&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Hongyin Luo, Hyperparameter optimization, undergraduate student at Tsinghua University
-  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;PhD student at MIT&lt;/li&gt;
+&lt;li&gt;Hongyin Luo, Hyperparameter optimization, undergraduate at Tsinghua University
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;PhD at MIT&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
