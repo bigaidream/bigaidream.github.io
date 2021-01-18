@@ -5,12 +5,20 @@
     <link>/author/alvin-chan/</link>
       <atom:link href="/author/alvin-chan/index.xml" rel="self" type="application/rss+xml" />
     <description>Alvin Chan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
       <title>Alvin Chan</title>
       <link>/author/alvin-chan/</link>
     </image>
+    
+    <item>
+      <title>CoCon: A Self-Supervised Approach for Controlled Text Generation</title>
+      <link>/publication/chan-2021/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/chan-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences</title>

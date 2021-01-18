@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Big AI Dream | Jie Fu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
       <title>Big AI Dream | Jie Fu</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Parameterization of Hypercomplex Multiplications</title>
+      <link>/publication/zhang-2021/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoCon: A Self-Supervised Approach for Controlled Text Generation</title>
+      <link>/publication/chan-2021/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/chan-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Antibiotic Discovery</title>
