@@ -13,16 +13,17 @@
     </image>
     
     <item>
-      <title>Co-Advise Junior Students</title>
-      <link>/page/advise/</link>
+      <title>Mentoring Junior Students</title>
+      <link>/page/mentor/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/page/advise/</guid>
-      <description>&lt;p&gt;I 👽 am always passionate about advising / working with junior self-motivated students 😹. Here is a list of my current research interests:&lt;/p&gt;
+      <guid>/page/mentor/</guid>
+      <description>&lt;p&gt;I 👽 am always passionate about talking / mentoring / working with junior self-motivated students 😹. Here is a list of my current research interests:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Drug Discovery&lt;/strong&gt;: Protein sequence modeling, antibiotics discovery, drug-target interaction&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;: Meta RL, goal-conditioned, hierarchical RL, sample-efficient RL, navigation, emergent communication&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Drug Discovery&lt;/strong&gt;: protein sequence modeling, antibiotics discovery, drug-target interaction&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;: meta RL, goal-conditioned, hierarchical RL, sample-efficient RL, navigation, emergent communication&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Language Processing&lt;/strong&gt;: text generation&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Drop me an email if you are interested to have a chat.&lt;/p&gt;
 &lt;h1 id=&#34;current&#34;&gt;Current&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Zehua Cheng, Drug Discovery, PhD at University of Oxford&lt;/li&gt;
