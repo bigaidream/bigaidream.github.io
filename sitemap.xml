@@ -1,506 +1,304 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/publication-type/3/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/anh-tuan-luu/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/aston-zhang/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/zhang-2021/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jie-fu/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/shuai-zhang/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/siu-hui/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yi-tay/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/alvin-chan/</loc>
     <lastmod>2021-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/bill-pung/</loc>
     <lastmod>2021-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/chan-2021/</loc>
     <lastmod>2021-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yew-soon-ong/</loc>
     <lastmod>2021-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/antibiotic_discovery/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/drug-discovery/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/drug_dis/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/meta_rl/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/reinforcement-learning/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/page/mentor/</loc>
     <lastmod>2020-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/page/</loc>
     <lastmod>2020-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/adam-trischler/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/bohan-zhuang/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/chris-pal/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/hao-dong/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jie-lin/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/fu-2020/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/xingdi-yuan/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/xue-geng/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/zhijian-duan/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/yuan-2019/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/marc-alexandre-cote/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/daxin-jiang/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/dayiheng-liu/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jiancheng-lv/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jiusheng-chen/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/nan-duan/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/liu-2020/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yeyun-gong/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yu-yan/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/donovan-ong/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/nancy-chen/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/tay-2020/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/bo-shao/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/liu-2020-a/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ming-zhou/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/liu-2020-b/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/wei-liu/</loc>
     <lastmod>2020-10-13T22:38:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/0/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/chan-2020/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/liu-2019a/</loc>
     <lastmod>2019-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yidan-zhang/</loc>
     <lastmod>2019-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/liu-2019b/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/qian-qu/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/yuan-2019-a/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yoshua-bengio/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/zhouhan-lin/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/pengfei-liu/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/liu-2019/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jinfeng-rao/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/tay-2019/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/minh-phan/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/shuohang-wang/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/tay-2019-a/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/siu-cheung-hui/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/bin-zhao/</loc>
     <lastmod>2019-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/geng-2019/</loc>
     <lastmod>2019-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/mohamed-aly/</loc>
     <lastmod>2019-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/vijay-chandrasekhar/</loc>
     <lastmod>2019-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/zhu-2019/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/hao-zhu/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/maosong-sun/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/tat-seng-chua/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yankai-lin/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/zhiyuan-liu/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jackie-chi-kit-cheung/</loc>
     <lastmod>2018-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/liu-2018/</loc>
     <lastmod>2018-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/xipeng-qiu/</loc>
     <lastmod>2018-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yue-dong/</loc>
     <lastmod>2018-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/danlu-chen/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ilija-ilievski/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/fu-2017/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ritchie-ng/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/fu-2016/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/hongyin-luo/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jiashi-feng/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/kian-hsiang-low/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cambria-2015/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/erik-cambria/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/federica-bisio/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/soujanya-poria/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jie-fu-%E5%A7%90%E5%A4%AB/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
   </url>
-  
 </urlset>
