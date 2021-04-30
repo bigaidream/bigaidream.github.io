@@ -40,14 +40,14 @@
       <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
 &lt;p&gt;Discovery and development of antibiotics have significantly reduced the burdens of infectious disease in human population in the past.
 However, due to natural evolution of microbes and inappropriate usages of antibiotics in healthcare and agriculture, antibiotic resistance has become an urgent problem world wide.
-In addition, due to various reasons &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, development of new antibiotics, especially those with novel structures and targets, has slowed down in the past decades.
+In addition, due to various reasons&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, development of new antibiotics, especially those with novel structures and targets, has slowed down in the past decades.
 In the near future, emergence of widely spread antibiotic resistant micro-organism will cause more problems.
 Therefore, novel methods for antibiotics discovery are urgently needed.&lt;/p&gt;
 &lt;h1 id=&#34;methods&#34;&gt;Methods&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;m leading a dedicated team for a series of projects for antibiotic discovery with both &lt;em&gt;in-silico&lt;/em&gt; and &lt;em&gt;in-vitro&lt;/em&gt; approaches.
 From the alrogithmic perspective, we are focusing on the following approaches:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Protein language model: we have reliable &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; access to &lt;strong&gt;~1,000 NVIDIA V100 GPUs&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Protein language model: we have reliable&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; access to &lt;strong&gt;~1,000 NVIDIA V100 GPUs&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Meta learning&lt;/li&gt;
 &lt;li&gt;Generative model&lt;/li&gt;
 &lt;li&gt;Self-supervised learning on graphs&lt;/li&gt;
