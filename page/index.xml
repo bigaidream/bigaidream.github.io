@@ -5,9 +5,9 @@
     <link>/page/</link>
       <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     <description>Pages</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
       <title>Pages</title>
       <link>/page/</link>
     </image>
@@ -17,14 +17,16 @@
       <link>/page/mentor/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/page/mentor/</guid>
-      <description>&lt;p&gt;I 👽 am always passionate about talking / mentoring / working with junior self-motivated students 😹. Here is a list of my current research interests:&lt;/p&gt;
+      <description>&lt;p&gt;I 😹 am always passionate about talking / mentoring / working with junior self-motivated students. Here is a list of my current research interests:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Drug Discovery&lt;/strong&gt;: protein sequence modeling, antibiotics discovery, drug-target interaction&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;: meta RL, goal-conditioned, hierarchical RL, sample-efficient RL, navigation, emergent communication&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Language Processing&lt;/strong&gt;: text generation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Drop me an email if you are interested to have a chat.&lt;/p&gt;
-&lt;p&gt;Here is a list of students that I am co-mentoring or co-mentored with other senior researchers:&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a hands-on senior postdoc: I&amp;rsquo;d like to give very concrete suggestions and have frequent (can be short) 1-1 meetings with junior student. I also prefer writing detailed documents so that team members can agree on the technical details more quickly.&lt;/p&gt;
+&lt;p&gt;I feel honored to be able to work with many young students with unlimited talent.
+Here is a list of students that I am co-mentoring or co-mentored with other senior researchers:&lt;/p&gt;
 &lt;h1 id=&#34;current&#34;&gt;Current&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Zehua Cheng, Drug Discovery, PhD at University of Oxford&lt;/li&gt;
@@ -45,7 +47,8 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Mustafa Alghali, AI for social good, master at AMMI&lt;/li&gt;
+&lt;li&gt;Mustafa Alghali, AI for social good, master at AMMI
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;data scientist at Unity&lt;/li&gt;
 &lt;li&gt;Ronak Pradeep, Question answering, undergraduate at University of Waterloo
   &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;master at University of Waterloo&lt;/li&gt;
 &lt;li&gt;Ning Dai, Translation, undergraduate at Fudan University
@@ -76,6 +79,27 @@
 &lt;ul&gt;
 &lt;li&gt;Hongyin Luo, Hyperparameter optimization, undergraduate at Tsinghua University
   &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;PhD at MIT&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selected Honors, Awards, and Grants</title>
+      <link>/page/award/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/page/award/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2021:  ICLR Conference Outstanding Paper Award (8 out of 860 Accepted Papers)&lt;/li&gt;
+&lt;li&gt;2021: Microsoft Research Montreal &amp;amp; Mila Research Grant (as PI), CAD 65,000, Canada&lt;/li&gt;
+&lt;li&gt;2020: &lt;a href=&#34;https://sites.google.com/view/citylearnchallenge/previous-edition-2020?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Agent Reinforcement Learning for Intelligent Energy Management&lt;/a&gt; Competition, 1st Place&lt;/li&gt;
+&lt;li&gt;2019.12: &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&amp;rsquo;s Natural Question Answering&lt;/a&gt;, RikiNet, 1st Place, 1st Superhuman Performance&lt;/li&gt;
+&lt;li&gt;2019: &lt;a href=&#34;https://www.microsoft.com/en-us/ai/ai-for-earth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft AI for Earth Grant&lt;/a&gt; (as PI), USD 8,000, USA&lt;/li&gt;
+&lt;li&gt;2017-2018: &lt;a href=&#34;https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IVADO Postdoctoral Fellowship&lt;/a&gt;, Canada&lt;/li&gt;
+&lt;li&gt;2016: Amazon AWS for Research (as PI), USD 8,000, USA&lt;/li&gt;
+&lt;li&gt;2015: Microsoft Azure Research Award (as PI), USD 20,000, USA&lt;/li&gt;
+&lt;li&gt;2012-2016: &lt;a href=&#34;http://www.nus.edu.sg/ngs/prospective-students/#attractive-scholarship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NUS Graduate School for Integrative Sciences and Engineering Ph.D. Scholarship&lt;/a&gt; (50% more stipend than ordinal scholarships), Singapore&lt;/li&gt;
+&lt;li&gt;2012: Master&amp;rsquo;s Degree with Distinction, University of Otago, New Zealand&lt;/li&gt;
+&lt;li&gt;2011: &lt;a href=&#34;https://www.mbie.govt.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ministry of Science + Innovation Scholarship&lt;/a&gt;, NZD 20,000, New Zealand&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

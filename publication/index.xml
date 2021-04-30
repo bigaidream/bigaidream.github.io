@@ -5,179 +5,135 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
     
     <item>
       <title>Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</title>
-      <link>/publication/zhang-2021/</link>
-      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-2021/</guid>
-      <description></description>
+      <link>/publication/parameterization_hypercomplex/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/parameterization_hypercomplex/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our paper received the &lt;a href=&#34;https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab&#34;&gt;Outstanding Paper Award&lt;/a&gt; (8 out of 860 accepted papers).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
       <title>CoCon: A Self-Supervised Approach for Controlled Text Generation</title>
-      <link>/publication/chan-2021/</link>
-      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/chan-2021/</guid>
-      <description></description>
+      <link>/publication/cocon/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cocon/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our paper received the &lt;a href=&#34;https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab&#34;&gt;Outstanding Paper Award&lt;/a&gt; (8 out of 860 accepted papers).
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rikinet: Reading Wikipedia Pages for Natural Question Answering</title>
+      <link>/publication/rikinet/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rikinet/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Till our submission time, 29 Nov. 2019, our method is the first single model that outperforms the single human performance and achieves the best performance on the &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34;&gt;official NQ&lt;/a&gt; leaderboard.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
       <title>Role-Wise Data Augmentation for Knowledge Distillation</title>
-      <link>/publication/fu-2020/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/fu-2020/</guid>
-      <description></description>
+      <link>/publication/role-wise/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/role-wise/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our paper received the &lt;a href=&#34;https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab&#34;&gt;Outstanding Paper Award&lt;/a&gt; (8 out of 860 accepted papers).
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
       <title>Interactive Machine Comprehension with Information Seeking Agents</title>
-      <link>/publication/yuan-2019/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/yuan-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RikiNet: Reading Wikipedia Pages for Natural Question Answering</title>
-      <link>/publication/liu-2020/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences</title>
-      <link>/publication/tay-2020/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tay-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation</title>
-      <link>/publication/liu-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space</title>
-      <link>/publication/liu-2020-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2020-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jacobian Adversarially Regularized Networks for Robustness</title>
-      <link>/publication/chan-2020/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/chan-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revision in Continuous Space: Fine-Grained Control of Text Style Transfer</title>
-      <link>/publication/liu-2019a/</link>
-      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2019a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
-      <link>/publication/liu-2019b/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2019b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactive Language Learning by Question Answering</title>
-      <link>/publication/yuan-2019-a/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yuan-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TIGS: An Inference Algorithm for Text Infilling with Gradient Search</title>
-      <link>/publication/liu-2019/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks</title>
-      <link>/publication/tay-2019/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/tay-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives</title>
-      <link>/publication/tay-2019-a/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/tay-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dataflow-Based Joint Quantization for Deep Neural Networks</title>
-      <link>/publication/geng-2019/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/geng-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Neural Networks with Generated Parameters for Relation Extraction</title>
-      <link>/publication/zhu-2019/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zhu-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-task Learning over Graph Structures</title>
-      <link>/publication/liu-2018/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Optimizers with Hypergradients for Tuning Parameter-Wise Learning Rates</title>
-      <link>/publication/fu-2017/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fu-2017/</guid>
-      <description></description>
+      <link>/publication/interactive_mrc/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/interactive_mrc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Till our submission time, 29 Nov. 2019, our method is the first single model that outperforms the single human performance and achieves the best performance on the &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34;&gt;official NQ&lt;/a&gt; leaderboard.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
       <title>DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks</title>
-      <link>/publication/fu-2016/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/fu-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AffectiveSpace 2: Enabling Affective Intuition for Concept-Level Sentiment Analysis</title>
-      <link>/publication/cambria-2015/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/cambria-2015/</guid>
-      <description></description>
+      <link>/publication/drmad/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/drmad/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Till our submission time, 29 Nov. 2019, our method is the first single model that outperforms the single human performance and achieves the best performance on the &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34;&gt;official NQ&lt;/a&gt; leaderboard.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
   </channel>

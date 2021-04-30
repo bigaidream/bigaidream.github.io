@@ -5,9 +5,9 @@
     <link>/tag/drug-discovery/</link>
       <atom:link href="/tag/drug-discovery/index.xml" rel="self" type="application/rss+xml" />
     <description>Drug Discovery</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
       <title>Drug Discovery</title>
       <link>/tag/drug-discovery/</link>
     </image>
@@ -15,16 +15,38 @@
     <item>
       <title>Antibiotic Discovery</title>
       <link>/project/antibiotic_discovery/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/project/antibiotic_discovery/</guid>
-      <description>&lt;p&gt;Discovery and development of antibiotics have significantly reduced the burdens of infectious disease in human population in the past.
+      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
+&lt;p&gt;Discovery and development of antibiotics have significantly reduced the burdens of infectious disease in human population in the past.
 However, due to natural evolution of microbes and inappropriate usages of antibiotics in healthcare and agriculture, antibiotic resistance has become an urgent problem world wide.
 In addition, due to various reasons &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, development of new antibiotics, especially those with novel structures and targets, has slowed down in the past decades.
-In the near future, emergence of widely spread antibiotic resistant micro-organism will cause more problems in the developing world where antibiotics are more frequently prescribed.&lt;/p&gt;
-&lt;p&gt;Traditionally, antibiotics were mostly developed by screening secondary metabolites and their semi-synthetic derivatives of soil-dwelling microbes for inhibiting growth of pathogenic microorganism.
-However, due to increasing difficulties in identifying effective chemicals from the space among secondary metabolites, no new clinical antibiotics has been discovered using this method since 1980s.
+In the near future, emergence of widely spread antibiotic resistant micro-organism will cause more problems in the developing world where antibiotics are more frequently prescribed.
 Therefore, novel methods for antibiotics discovery are urgently needed.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m leading an initiative for antibiotic discovery with an active learning framework. I will share more details in the near future.&lt;/p&gt;
+&lt;h1 id=&#34;methods&#34;&gt;Methods&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m leading a dedicated team for a seriecs of projects for antibiotic discovery with both &lt;em&gt;in-silico&lt;/em&gt; and &lt;em&gt;in-vitro&lt;/em&gt; approaches.
+From the alrogithmic perspective, we are focusing the following directions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Protein language model: we have access to ~1,000 NVIDIA V100 GPUs&lt;/li&gt;
+&lt;li&gt;Meta learning&lt;/li&gt;
+&lt;li&gt;Generative model&lt;/li&gt;
+&lt;li&gt;Self-supervised learning on graphs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will synthesize the our generated the antibiotics in the wet-lab.&lt;/p&gt;
+&lt;h1 id=&#34;seeking-collaboration--recruiting-interns&#34;&gt;Seeking Collaboration &amp;amp; Recruiting Interns&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Last update: Apr 29, 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are senior researcher and is interested to collaborate or just want to know more, I&amp;rsquo;d be very happy to chat.&lt;/li&gt;
+&lt;li&gt;If you are a junior highly-motivated students (e.g. senior undergraduate or junior master or PhD students), I, together with my postdoc supervisors, can host you as a remote intern.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that, I&amp;rsquo;m a hands-on senior postdoc: I&amp;rsquo;d like to give very concrete suggestions and have frequent (can be short) 1-1 meetings with junior student. I also prefer writing detailed documents so that team members can agree on the technical details more quickly.&lt;br&gt;
+I&amp;rsquo;ve been supervising junior students since 2015, and you can find more about my mentoring experience at this &lt;a href=&#34;/page/mentor/&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- # Credits
+
+Since this is a big and ambitious project, I believe that it is important to assign the correct amount credits to each member. For each member, we will first design a sub-project to solve one problem related to the antibiotic discovery process. For example, we have a sub-project on meta reinforcement learning for improving the sample efficiency for antibiotic discovery. This sub-project can be a bit more generic
+The junior student responsible for the project shall be the first-author for a conference paper  --&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

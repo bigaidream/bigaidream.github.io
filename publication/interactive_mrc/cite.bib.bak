@@ -1,0 +1,10 @@
+% Encoding: UTF-8
+
+@Article{Yuan2019,
+  author  = {Yuan, Xingdi and Fu, Jie and Cote, Marc-Alexandre and Tay, Yi and Pal, Christopher and Trischler, Adam},
+  journal = {arXiv preprint arXiv:1908.10449},
+  title   = {Interactive machine comprehension with information seeking agents},
+  year    = {2019},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

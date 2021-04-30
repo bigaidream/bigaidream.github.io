@@ -5,35 +5,114 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
     
     <item>
-      <title>Role-Wise Data Augmentation for Knowledge Distillation</title>
-      <link>/publication/fu-2020/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/fu-2020/</guid>
-      <description></description>
+      <title>Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</title>
+      <link>/publication/parameterization_hypercomplex/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/parameterization_hypercomplex/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our paper received the &lt;a href=&#34;https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab&#34;&gt;Outstanding Paper Award&lt;/a&gt; (8 out of 860 accepted papers).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
-      <title>Neural Optimizers with Hypergradients for Tuning Parameter-Wise Learning Rates</title>
-      <link>/publication/fu-2017/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fu-2017/</guid>
-      <description></description>
+      <title>CoCon: A Self-Supervised Approach for Controlled Text Generation</title>
+      <link>/publication/cocon/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cocon/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our paper received the &lt;a href=&#34;https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab&#34;&gt;Outstanding Paper Award&lt;/a&gt; (8 out of 860 accepted papers).
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rikinet: Reading Wikipedia Pages for Natural Question Answering</title>
+      <link>/publication/rikinet/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rikinet/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Till our submission time, 29 Nov. 2019, our method is the first single model that outperforms the single human performance and achieves the best performance on the &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34;&gt;official NQ&lt;/a&gt; leaderboard.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Machine Comprehension with Information Seeking Agents</title>
+      <link>/publication/interactive_mrc/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/interactive_mrc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Till our submission time, 29 Nov. 2019, our method is the first single model that outperforms the single human performance and achieves the best performance on the &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34;&gt;official NQ&lt;/a&gt; leaderboard.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
       <title>DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks</title>
-      <link>/publication/fu-2016/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/fu-2016/</guid>
-      <description></description>
+      <link>/publication/drmad/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/drmad/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Till our submission time, 29 Nov. 2019, our method is the first single model that outperforms the single human performance and achieves the best performance on the &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34;&gt;official NQ&lt;/a&gt; leaderboard.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
   </channel>

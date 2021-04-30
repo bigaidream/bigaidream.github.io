@@ -1,0 +1,10 @@
+% Encoding: UTF-8
+
+@Article{Chan2020,
+  author  = {Chan, Alvin and Ong, Yew-Soon and Pung, Bill and Zhang, Aston and Fu, Jie},
+  journal = {ICLR},
+  title   = {CoCon: A self-supervised approach for controlled text generation},
+  year    = {2020},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

@@ -1,0 +1,10 @@
+% Encoding: UTF-8
+
+@Article{Liu2020,
+  author  = {Liu, Dayiheng and Gong, Yeyun and Fu, Jie and Yan, Yu and Chen, Jiusheng and Jiang, Daxin and Lv, Jiancheng and Duan, Nan},
+  journal = {arXiv preprint arXiv:2004.14560},
+  title   = {Rikinet: Reading wikipedia pages for natural question answering},
+  year    = {2020},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

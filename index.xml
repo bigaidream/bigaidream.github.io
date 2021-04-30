@@ -5,42 +5,68 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Big AI Dream | Jie Fu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
       <title>Big AI Dream | Jie Fu</title>
       <link>/</link>
     </image>
     
     <item>
-      <title>Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</title>
-      <link>/publication/zhang-2021/</link>
-      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CoCon: A Self-Supervised Approach for Controlled Text Generation</title>
-      <link>/publication/chan-2021/</link>
-      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/chan-2021/</guid>
-      <description></description>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Antibiotic Discovery</title>
       <link>/project/antibiotic_discovery/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/project/antibiotic_discovery/</guid>
-      <description>&lt;p&gt;Discovery and development of antibiotics have significantly reduced the burdens of infectious disease in human population in the past.
+      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
+&lt;p&gt;Discovery and development of antibiotics have significantly reduced the burdens of infectious disease in human population in the past.
 However, due to natural evolution of microbes and inappropriate usages of antibiotics in healthcare and agriculture, antibiotic resistance has become an urgent problem world wide.
 In addition, due to various reasons &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, development of new antibiotics, especially those with novel structures and targets, has slowed down in the past decades.
-In the near future, emergence of widely spread antibiotic resistant micro-organism will cause more problems in the developing world where antibiotics are more frequently prescribed.&lt;/p&gt;
-&lt;p&gt;Traditionally, antibiotics were mostly developed by screening secondary metabolites and their semi-synthetic derivatives of soil-dwelling microbes for inhibiting growth of pathogenic microorganism.
-However, due to increasing difficulties in identifying effective chemicals from the space among secondary metabolites, no new clinical antibiotics has been discovered using this method since 1980s.
+In the near future, emergence of widely spread antibiotic resistant micro-organism will cause more problems in the developing world where antibiotics are more frequently prescribed.
 Therefore, novel methods for antibiotics discovery are urgently needed.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m leading an initiative for antibiotic discovery with an active learning framework. I will share more details in the near future.&lt;/p&gt;
+&lt;h1 id=&#34;methods&#34;&gt;Methods&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m leading a dedicated team for a seriecs of projects for antibiotic discovery with both &lt;em&gt;in-silico&lt;/em&gt; and &lt;em&gt;in-vitro&lt;/em&gt; approaches.
+From the alrogithmic perspective, we are focusing the following directions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Protein language model: we have access to ~1,000 NVIDIA V100 GPUs&lt;/li&gt;
+&lt;li&gt;Meta learning&lt;/li&gt;
+&lt;li&gt;Generative model&lt;/li&gt;
+&lt;li&gt;Self-supervised learning on graphs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will synthesize the our generated the antibiotics in the wet-lab.&lt;/p&gt;
+&lt;h1 id=&#34;seeking-collaboration--recruiting-interns&#34;&gt;Seeking Collaboration &amp;amp; Recruiting Interns&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Last update: Apr 29, 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are senior researcher and is interested to collaborate or just want to know more, I&amp;rsquo;d be very happy to chat.&lt;/li&gt;
+&lt;li&gt;If you are a junior highly-motivated students (e.g. senior undergraduate or junior master or PhD students), I, together with my postdoc supervisors, can host you as a remote intern.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that, I&amp;rsquo;m a hands-on senior postdoc: I&amp;rsquo;d like to give very concrete suggestions and have frequent (can be short) 1-1 meetings with junior student. I also prefer writing detailed documents so that team members can agree on the technical details more quickly.&lt;br&gt;
+I&amp;rsquo;ve been supervising junior students since 2015, and you can find more about my mentoring experience at this &lt;a href=&#34;/page/mentor/&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- # Credits
+
+Since this is a big and ambitious project, I believe that it is important to assign the correct amount credits to each member. For each member, we will first design a sub-project to solve one problem related to the antibiotic discovery process. For example, we have a sub-project on meta reinforcement learning for improving the sample efficiency for antibiotic discovery. This sub-project can be a bit more generic
+The junior student responsible for the project shall be the first-author for a conference paper  --&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -49,6 +75,124 @@ Therefore, novel methods for antibiotics discovery are urgently needed.&lt;/p&gt
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</title>
+      <link>/publication/parameterization_hypercomplex/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/parameterization_hypercomplex/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our paper received the &lt;a href=&#34;https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab&#34;&gt;Outstanding Paper Award&lt;/a&gt; (8 out of 860 accepted papers).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CoCon: A Self-Supervised Approach for Controlled Text Generation</title>
+      <link>/publication/cocon/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cocon/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our paper received the &lt;a href=&#34;https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab&#34;&gt;Outstanding Paper Award&lt;/a&gt; (8 out of 860 accepted papers).
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
     
@@ -78,14 +222,16 @@ Wil share results soon.&lt;/p&gt;
       <link>/page/mentor/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/page/mentor/</guid>
-      <description>&lt;p&gt;I 👽 am always passionate about talking / mentoring / working with junior self-motivated students 😹. Here is a list of my current research interests:&lt;/p&gt;
+      <description>&lt;p&gt;I 😹 am always passionate about talking / mentoring / working with junior self-motivated students. Here is a list of my current research interests:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Drug Discovery&lt;/strong&gt;: protein sequence modeling, antibiotics discovery, drug-target interaction&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;: meta RL, goal-conditioned, hierarchical RL, sample-efficient RL, navigation, emergent communication&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Language Processing&lt;/strong&gt;: text generation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Drop me an email if you are interested to have a chat.&lt;/p&gt;
-&lt;p&gt;Here is a list of students that I am co-mentoring or co-mentored with other senior researchers:&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a hands-on senior postdoc: I&amp;rsquo;d like to give very concrete suggestions and have frequent (can be short) 1-1 meetings with junior student. I also prefer writing detailed documents so that team members can agree on the technical details more quickly.&lt;/p&gt;
+&lt;p&gt;I feel honored to be able to work with many young students with unlimited talent.
+Here is a list of students that I am co-mentoring or co-mentored with other senior researchers:&lt;/p&gt;
 &lt;h1 id=&#34;current&#34;&gt;Current&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Zehua Cheng, Drug Discovery, PhD at University of Oxford&lt;/li&gt;
@@ -106,7 +252,8 @@ Wil share results soon.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Mustafa Alghali, AI for social good, master at AMMI&lt;/li&gt;
+&lt;li&gt;Mustafa Alghali, AI for social good, master at AMMI
+  &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;data scientist at Unity&lt;/li&gt;
 &lt;li&gt;Ronak Pradeep, Question answering, undergraduate at University of Waterloo
   &lt;i class=&#34;fas fa-arrow-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;master at University of Waterloo&lt;/li&gt;
 &lt;li&gt;Ning Dai, Translation, undergraduate at Fudan University
@@ -142,154 +289,243 @@ Wil share results soon.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Selected Honors, Awards, and Grants</title>
+      <link>/page/award/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/page/award/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2021:  ICLR Conference Outstanding Paper Award (8 out of 860 Accepted Papers)&lt;/li&gt;
+&lt;li&gt;2021: Microsoft Research Montreal &amp;amp; Mila Research Grant (as PI), CAD 65,000, Canada&lt;/li&gt;
+&lt;li&gt;2020: &lt;a href=&#34;https://sites.google.com/view/citylearnchallenge/previous-edition-2020?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Agent Reinforcement Learning for Intelligent Energy Management&lt;/a&gt; Competition, 1st Place&lt;/li&gt;
+&lt;li&gt;2019.12: &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&amp;rsquo;s Natural Question Answering&lt;/a&gt;, RikiNet, 1st Place, 1st Superhuman Performance&lt;/li&gt;
+&lt;li&gt;2019: &lt;a href=&#34;https://www.microsoft.com/en-us/ai/ai-for-earth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft AI for Earth Grant&lt;/a&gt; (as PI), USD 8,000, USA&lt;/li&gt;
+&lt;li&gt;2017-2018: &lt;a href=&#34;https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IVADO Postdoctoral Fellowship&lt;/a&gt;, Canada&lt;/li&gt;
+&lt;li&gt;2016: Amazon AWS for Research (as PI), USD 8,000, USA&lt;/li&gt;
+&lt;li&gt;2015: Microsoft Azure Research Award (as PI), USD 20,000, USA&lt;/li&gt;
+&lt;li&gt;2012-2016: &lt;a href=&#34;http://www.nus.edu.sg/ngs/prospective-students/#attractive-scholarship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NUS Graduate School for Integrative Sciences and Engineering Ph.D. Scholarship&lt;/a&gt; (50% more stipend than ordinal scholarships), Singapore&lt;/li&gt;
+&lt;li&gt;2012: Master&amp;rsquo;s Degree with Distinction, University of Otago, New Zealand&lt;/li&gt;
+&lt;li&gt;2011: &lt;a href=&#34;https://www.mbie.govt.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ministry of Science + Innovation Scholarship&lt;/a&gt;, NZD 20,000, New Zealand&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rikinet: Reading Wikipedia Pages for Natural Question Answering</title>
+      <link>/publication/rikinet/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rikinet/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Till our submission time, 29 Nov. 2019, our method is the first single model that outperforms the single human performance and achieves the best performance on the &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34;&gt;official NQ&lt;/a&gt; leaderboard.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Role-Wise Data Augmentation for Knowledge Distillation</title>
-      <link>/publication/fu-2020/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/fu-2020/</guid>
-      <description></description>
+      <link>/publication/role-wise/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/role-wise/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our paper received the &lt;a href=&#34;https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab&#34;&gt;Outstanding Paper Award&lt;/a&gt; (8 out of 860 accepted papers).
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
       <title>Interactive Machine Comprehension with Information Seeking Agents</title>
-      <link>/publication/yuan-2019/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/yuan-2019/</guid>
-      <description></description>
+      <link>/publication/interactive_mrc/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/interactive_mrc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Till our submission time, 29 Nov. 2019, our method is the first single model that outperforms the single human performance and achieves the best performance on the &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34;&gt;official NQ&lt;/a&gt; leaderboard.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
-      <title>RikiNet: Reading Wikipedia Pages for Natural Question Answering</title>
-      <link>/publication/liu-2020/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences</title>
-      <link>/publication/tay-2020/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tay-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation</title>
-      <link>/publication/liu-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space</title>
-      <link>/publication/liu-2020-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2020-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jacobian Adversarially Regularized Networks for Robustness</title>
-      <link>/publication/chan-2020/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/chan-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revision in Continuous Space: Fine-Grained Control of Text Style Transfer</title>
-      <link>/publication/liu-2019a/</link>
-      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2019a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
-      <link>/publication/liu-2019b/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2019b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactive Language Learning by Question Answering</title>
-      <link>/publication/yuan-2019-a/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yuan-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TIGS: An Inference Algorithm for Text Infilling with Gradient Search</title>
-      <link>/publication/liu-2019/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks</title>
-      <link>/publication/tay-2019/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/tay-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives</title>
-      <link>/publication/tay-2019-a/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/tay-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dataflow-Based Joint Quantization for Deep Neural Networks</title>
-      <link>/publication/geng-2019/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/geng-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Neural Networks with Generated Parameters for Relation Extraction</title>
-      <link>/publication/zhu-2019/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zhu-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-task Learning over Graph Structures</title>
-      <link>/publication/liu-2018/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Optimizers with Hypergradients for Tuning Parameter-Wise Learning Rates</title>
-      <link>/publication/fu-2017/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fu-2017/</guid>
-      <description></description>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks</title>
-      <link>/publication/fu-2016/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/fu-2016/</guid>
-      <description></description>
+      <link>/publication/drmad/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/drmad/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Till our submission time, 29 Nov. 2019, our method is the first single model that outperforms the single human performance and achieves the best performance on the &lt;a href=&#34;https://ai.google.com/research/NaturalQuestions/leaderboard&#34;&gt;official NQ&lt;/a&gt; leaderboard.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
-      <title>AffectiveSpace 2: Enabling Affective Intuition for Concept-Level Sentiment Analysis</title>
-      <link>/publication/cambria-2015/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/cambria-2015/</guid>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
       <description></description>
     </item>
     
