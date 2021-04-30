@@ -44,15 +44,15 @@ In addition, due to various reasons &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&
 In the near future, emergence of widely spread antibiotic resistant micro-organism will cause more problems in the developing world where antibiotics are more frequently prescribed.
 Therefore, novel methods for antibiotics discovery are urgently needed.&lt;/p&gt;
 &lt;h1 id=&#34;methods&#34;&gt;Methods&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m leading a dedicated team for a seriecs of projects for antibiotic discovery with both &lt;em&gt;in-silico&lt;/em&gt; and &lt;em&gt;in-vitro&lt;/em&gt; approaches.
-From the alrogithmic perspective, we are focusing the following directions:&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m leading a dedicated team for a series of projects for antibiotic discovery with both &lt;em&gt;in-silico&lt;/em&gt; and &lt;em&gt;in-vitro&lt;/em&gt; approaches.
+From the alrogithmic perspective, we are focusing on the following approaches:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Protein language model: we have access to ~1,000 NVIDIA V100 GPUs&lt;/li&gt;
 &lt;li&gt;Meta learning&lt;/li&gt;
 &lt;li&gt;Generative model&lt;/li&gt;
 &lt;li&gt;Self-supervised learning on graphs&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;We will synthesize the our generated the antibiotics in the wet-lab.&lt;/p&gt;
+&lt;p&gt;We will synthesize and test the our generated the antibiotics in the wet-lab.&lt;/p&gt;
 &lt;h1 id=&#34;seeking-collaboration--recruiting-interns&#34;&gt;Seeking Collaboration &amp;amp; Recruiting Interns&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Last update: Apr 29, 2021&lt;/p&gt;
