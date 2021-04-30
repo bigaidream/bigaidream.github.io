@@ -41,28 +41,37 @@
 &lt;p&gt;Discovery and development of antibiotics have significantly reduced the burdens of infectious disease in human population in the past.
 However, due to natural evolution of microbes and inappropriate usages of antibiotics in healthcare and agriculture, antibiotic resistance has become an urgent problem world wide.
 In addition, due to various reasons &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, development of new antibiotics, especially those with novel structures and targets, has slowed down in the past decades.
-In the near future, emergence of widely spread antibiotic resistant micro-organism will cause more problems in the developing world where antibiotics are more frequently prescribed.
+In the near future, emergence of widely spread antibiotic resistant micro-organism will cause more problems.
 Therefore, novel methods for antibiotics discovery are urgently needed.&lt;/p&gt;
 &lt;h1 id=&#34;methods&#34;&gt;Methods&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;m leading a dedicated team for a series of projects for antibiotic discovery with both &lt;em&gt;in-silico&lt;/em&gt; and &lt;em&gt;in-vitro&lt;/em&gt; approaches.
 From the alrogithmic perspective, we are focusing on the following approaches:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Protein language model: we have access to ~1,000 NVIDIA V100 GPUs&lt;/li&gt;
+&lt;li&gt;Protein language model: we have reliable &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; access to &lt;strong&gt;~1,000 NVIDIA V100 GPUs&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Meta learning&lt;/li&gt;
 &lt;li&gt;Generative model&lt;/li&gt;
 &lt;li&gt;Self-supervised learning on graphs&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;We will synthesize and test the our generated the antibiotics in the wet-lab.&lt;/p&gt;
+&lt;p&gt;We will synthesize and test our generated the antibiotics in the wet-lab.&lt;/p&gt;
 &lt;h1 id=&#34;seeking-collaboration--recruiting-interns&#34;&gt;Seeking Collaboration &amp;amp; Recruiting Interns&lt;/h1&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Last update: Apr 29, 2021&lt;/p&gt;
+&lt;p&gt;Last update: Apr 30, 2021, 09:39AM&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;If you are senior researcher and is interested to collaborate or just want to know more, I&amp;rsquo;d be very happy to chat.&lt;/li&gt;
-&lt;li&gt;If you are a junior highly-motivated students (e.g. senior undergraduate or junior master or PhD students), I, together with my postdoc supervisors, can host you as a remote intern.&lt;/li&gt;
+&lt;li&gt;If you are a senior researcher and is interested to collaborate or just want to know more, I&amp;rsquo;d be very happy to chat.&lt;/li&gt;
+&lt;li&gt;If you are a junior highly-motivated student (e.g. senior undergraduate or junior master or PhD students), I, together with my postdoc supervisors, can host you as a remote intern.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Note that, I&amp;rsquo;m a hands-on senior postdoc: I&amp;rsquo;d like to give very concrete suggestions and have frequent (can be short) 1-1 meetings with junior student. I also prefer writing detailed documents so that team members can agree on the technical details more quickly.&lt;br&gt;
-I&amp;rsquo;ve been supervising junior students since 2015, and you can find more about my mentoring experience at this &lt;a href=&#34;/page/mentor/&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    As a collaborator/intern, you are not expected to have biological background. We have already formualted the drug discovery problem into a series of well-defined machine learning task.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    I&amp;rsquo;m a hands-on senior postdoc: I&amp;rsquo;d like to give very concrete suggestions and have frequent (can be short) 1-1 meetings with junior student. I also prefer writing detailed documents so that team members can agree on the technical details more quickly.&lt;br&gt;
+I&amp;rsquo;ve been enjoying supervising junior students since 2015, and you can find more about my mentoring experience at this &lt;a href=&#34;/page/mentor/&#34;&gt;page&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;!-- # Credits
 
 Since this is a big and ambitious project, I believe that it is important to assign the correct amount credits to each member. For each member, we will first design a sub-project to solve one problem related to the antibiotic discovery process. For example, we have a sub-project on meta reinforcement learning for improving the sample efficiency for antibiotic discovery. This sub-project can be a bit more generic
@@ -72,6 +81,9 @@ The junior student responsible for the project shall be the first-author for a c
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Most pharmaceutical companies have abandoned the development of new antibiotics and have instead focused on developing more profitable drugs for non-communicable diseases. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;We have very high priority on the computing cluster and the queue time is negligible. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
