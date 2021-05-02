@@ -47,7 +47,7 @@ Therefore, novel methods for antibiotics discovery are urgently needed.&lt;/p&gt
 &lt;p&gt;I&amp;rsquo;m leading a dedicated team for a series of projects for antibiotic discovery with both &lt;em&gt;in-silico&lt;/em&gt; and &lt;em&gt;in-vitro&lt;/em&gt; approaches.
 From the alrogithmic perspective, we are focusing on the following approaches:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Protein language model: we have reliable&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; access to &lt;strong&gt;~1,000 NVIDIA V100 GPUs&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Protein language model: we have reliable&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; access to a cluster with &lt;strong&gt;~2,000 NVIDIA V100 GPUs&lt;/strong&gt;, which has NVLink for GPUs within a node and high-speed across-node connections. We can use the cluster for large-model training.&lt;/li&gt;
 &lt;li&gt;Meta learning&lt;/li&gt;
 &lt;li&gt;Generative model&lt;/li&gt;
 &lt;li&gt;Self-supervised learning on graphs&lt;/li&gt;
