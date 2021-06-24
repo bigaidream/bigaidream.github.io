@@ -5,7 +5,7 @@
     <link>/tag/drug-discovery/</link>
       <atom:link href="/tag/drug-discovery/index.xml" rel="self" type="application/rss+xml" />
     <description>Drug Discovery</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu040dc0b6acf2789f0efacc4b5423e0ae_1964_512x512_fill_lanczos_center_2.png</url>
       <title>Drug Discovery</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Antibiotic Discovery</title>
       <link>/project/antibiotic_discovery/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/project/antibiotic_discovery/</guid>
       <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
 &lt;p&gt;Discovery and development of antibiotics have significantly reduced the burdens of infectious disease in human population in the past.
@@ -30,13 +30,14 @@ From the alrogithmic perspective, we are focusing on the following approaches:&l
 &lt;li&gt;Protein language model: we have reliable&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; access to a cluster with &lt;strong&gt;~2,000 NVIDIA V100 GPUs&lt;/strong&gt;, which has NVLink for GPUs within a node and high-speed across-node connections. We can use the cluster for large-model training.&lt;/li&gt;
 &lt;li&gt;Meta learning&lt;/li&gt;
 &lt;li&gt;Generative model&lt;/li&gt;
+&lt;li&gt;Deep reinforcement learning&lt;/li&gt;
 &lt;li&gt;Self-supervised learning on graphs&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We will synthesize and test our generated antibiotics in the wet-lab.&lt;/p&gt;
 &lt;p&gt;All of the data and training/testing codes will be publicly available.&lt;/p&gt;
 &lt;h1 id=&#34;seeking-collaboration--recruiting-interns&#34;&gt;Seeking Collaboration &amp;amp; Recruiting Interns&lt;/h1&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Last update: Apr 30, 2021, 09:39AM&lt;/p&gt;
+&lt;p&gt;Last update: June 23, 2021, 22:03PM&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;If you are a senior researcher and is interested to collaborate or just want to know more, I&amp;rsquo;d be very happy to chat.&lt;/li&gt;
